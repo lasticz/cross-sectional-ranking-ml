@@ -1,0 +1,57 @@
+# 密钥与真实配置（服务器上放真实 config.json，不进 git）
+config.json
+config_mr.json
+config_shock.json
+config_copytrade.json
+config_listing.json
+config_download.json
+user_data/*.json.secret
+.env
+
+# 历史数据与数据库（体积大，可重新下载）
+user_data/data/
+user_data/tradesv3*.sqlite
+user_data/logs/
+user_data/backtest_results/
+user_data/hyperopt_results/
+user_data/notebooks/
+user_data/walkforward_results/logs/
+user_data/onchain_signals.json
+
+# 运行产物与临时日志
+bt_*.txt
+dl_*.txt
+*_output.txt
+*.log
+ops/.wd_fails
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# 工具目录
+.mimosa/
+.omc/
+.zcode/
+.DS_Store
+Thumbs.db
+
+# ML 大文件（中间计算产物，可重新生成）
+user_data/ml/*.feather
+user_data/ml_v2/*.feather
+user_data/ml_signals.json
+user_data/freqtrade_mr_reference.feather
+user_data/models/
+*.pkl
+dl_*.txt
+*_out*.txt
+*_result.txt
+engine_validate.txt
+diagnose_out.txt
+ml_*.txt
+nt_full_result.txt
+unified_out*.txt
+bt_*.txt
+freqtrade_2023H1_ref.txt

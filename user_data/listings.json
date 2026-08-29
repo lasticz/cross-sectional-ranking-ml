@@ -1,0 +1,2087 @@
+[
+ {
+  "symbol": "FET/USDT:USDT",
+  "base": "FET",
+  "onboard": "2023-01-15"
+ },
+ {
+  "symbol": "MAGIC/USDT:USDT",
+  "base": "MAGIC",
+  "onboard": "2023-01-23"
+ },
+ {
+  "symbol": "T/USDT:USDT",
+  "base": "T",
+  "onboard": "2023-01-31"
+ },
+ {
+  "symbol": "MINA/USDT:USDT",
+  "base": "MINA",
+  "onboard": "2023-02-03"
+ },
+ {
+  "symbol": "ASTR/USDT:USDT",
+  "base": "ASTR",
+  "onboard": "2023-02-13"
+ },
+ {
+  "symbol": "GMX/USDT:USDT",
+  "base": "GMX",
+  "onboard": "2023-02-16"
+ },
+ {
+  "symbol": "CFX/USDT:USDT",
+  "base": "CFX",
+  "onboard": "2023-02-19"
+ },
+ {
+  "symbol": "STX/USDT:USDT",
+  "base": "STX",
+  "onboard": "2023-02-20"
+ },
+ {
+  "symbol": "ACH/USDT:USDT",
+  "base": "ACH",
+  "onboard": "2023-02-21"
+ },
+ {
+  "symbol": "SSV/USDT:USDT",
+  "base": "SSV",
+  "onboard": "2023-02-23"
+ },
+ {
+  "symbol": "CKB/USDT:USDT",
+  "base": "CKB",
+  "onboard": "2023-02-27"
+ },
+ {
+  "symbol": "LQTY/USDT:USDT",
+  "base": "LQTY",
+  "onboard": "2023-03-08"
+ },
+ {
+  "symbol": "USDC/USDT:USDT",
+  "base": "USDC",
+  "onboard": "2023-03-12"
+ },
+ {
+  "symbol": "ID/USDT:USDT",
+  "base": "ID",
+  "onboard": "2023-03-23"
+ },
+ {
+  "symbol": "ARB/USDT:USDT",
+  "base": "ARB",
+  "onboard": "2023-03-23"
+ },
+ {
+  "symbol": "JOE/USDT:USDT",
+  "base": "JOE",
+  "onboard": "2023-03-28"
+ },
+ {
+  "symbol": "TLM/USDT:USDT",
+  "base": "TLM",
+  "onboard": "2023-03-29"
+ },
+ {
+  "symbol": "XVS/USDT:USDT",
+  "base": "XVS",
+  "onboard": "2023-04-12"
+ },
+ {
+  "symbol": "BLUR/USDT:USDT",
+  "base": "BLUR",
+  "onboard": "2023-04-27"
+ },
+ {
+  "symbol": "EDU/USDT:USDT",
+  "base": "EDU",
+  "onboard": "2023-04-28"
+ },
+ {
+  "symbol": "SUI/USDT:USDT",
+  "base": "SUI",
+  "onboard": "2023-05-03"
+ },
+ {
+  "symbol": "1000PEPE/USDT:USDT",
+  "base": "1000PEPE",
+  "onboard": "2023-05-05"
+ },
+ {
+  "symbol": "1000FLOKI/USDT:USDT",
+  "base": "1000FLOKI",
+  "onboard": "2023-05-06"
+ },
+ {
+  "symbol": "UMA/USDT:USDT",
+  "base": "UMA",
+  "onboard": "2023-05-09"
+ },
+ {
+  "symbol": "NMR/USDT:USDT",
+  "base": "NMR",
+  "onboard": "2023-06-22"
+ },
+ {
+  "symbol": "MAV/USDT:USDT",
+  "base": "MAV",
+  "onboard": "2023-06-29"
+ },
+ {
+  "symbol": "XVG/USDT:USDT",
+  "base": "XVG",
+  "onboard": "2023-07-05"
+ },
+ {
+  "symbol": "WLD/USDT:USDT",
+  "base": "WLD",
+  "onboard": "2023-07-24"
+ },
+ {
+  "symbol": "PENDLE/USDT:USDT",
+  "base": "PENDLE",
+  "onboard": "2023-07-28"
+ },
+ {
+  "symbol": "ARKM/USDT:USDT",
+  "base": "ARKM",
+  "onboard": "2023-07-28"
+ },
+ {
+  "symbol": "AGLD/USDT:USDT",
+  "base": "AGLD",
+  "onboard": "2023-07-29"
+ },
+ {
+  "symbol": "YGG/USDT:USDT",
+  "base": "YGG",
+  "onboard": "2023-08-05"
+ },
+ {
+  "symbol": "DODOX/USDT:USDT",
+  "base": "DODOX",
+  "onboard": "2023-08-08"
+ },
+ {
+  "symbol": "BNT/USDT:USDT",
+  "base": "BNT",
+  "onboard": "2023-08-10"
+ },
+ {
+  "symbol": "SEI/USDT:USDT",
+  "base": "SEI",
+  "onboard": "2023-08-17"
+ },
+ {
+  "symbol": "CYBER/USDT:USDT",
+  "base": "CYBER",
+  "onboard": "2023-08-21"
+ },
+ {
+  "symbol": "ARK/USDT:USDT",
+  "base": "ARK",
+  "onboard": "2023-09-19"
+ },
+ {
+  "symbol": "BICO/USDT:USDT",
+  "base": "BICO",
+  "onboard": "2023-09-28"
+ },
+ {
+  "symbol": "BIGTIME/USDT:USDT",
+  "base": "BIGTIME",
+  "onboard": "2023-10-12"
+ },
+ {
+  "symbol": "WAXP/USDT:USDT",
+  "base": "WAXP",
+  "onboard": "2023-10-18"
+ },
+ {
+  "symbol": "BSV/USDT:USDT",
+  "base": "BSV",
+  "onboard": "2023-10-20"
+ },
+ {
+  "symbol": "RIF/USDT:USDT",
+  "base": "RIF",
+  "onboard": "2023-10-21"
+ },
+ {
+  "symbol": "POLYX/USDT:USDT",
+  "base": "POLYX",
+  "onboard": "2023-10-25"
+ },
+ {
+  "symbol": "GAS/USDT:USDT",
+  "base": "GAS",
+  "onboard": "2023-10-25"
+ },
+ {
+  "symbol": "POWR/USDT:USDT",
+  "base": "POWR",
+  "onboard": "2023-10-27"
+ },
+ {
+  "symbol": "TIA/USDT:USDT",
+  "base": "TIA",
+  "onboard": "2023-10-31"
+ },
+ {
+  "symbol": "CAKE/USDT:USDT",
+  "base": "CAKE",
+  "onboard": "2023-11-02"
+ },
+ {
+  "symbol": "MEME/USDT:USDT",
+  "base": "MEME",
+  "onboard": "2023-11-03"
+ },
+ {
+  "symbol": "TWT/USDT:USDT",
+  "base": "TWT",
+  "onboard": "2023-11-03"
+ },
+ {
+  "symbol": "ORDI/USDT:USDT",
+  "base": "ORDI",
+  "onboard": "2023-11-07"
+ },
+ {
+  "symbol": "STEEM/USDT:USDT",
+  "base": "STEEM",
+  "onboard": "2023-11-08"
+ },
+ {
+  "symbol": "ILV/USDT:USDT",
+  "base": "ILV",
+  "onboard": "2023-11-10"
+ },
+ {
+  "symbol": "KAS/USDT:USDT",
+  "base": "KAS",
+  "onboard": "2023-11-17"
+ },
+ {
+  "symbol": "BEAMX/USDT:USDT",
+  "base": "BEAMX",
+  "onboard": "2023-11-17"
+ },
+ {
+  "symbol": "1000BONK/USDT:USDT",
+  "base": "1000BONK",
+  "onboard": "2023-11-22"
+ },
+ {
+  "symbol": "PYTH/USDT:USDT",
+  "base": "PYTH",
+  "onboard": "2023-11-22"
+ },
+ {
+  "symbol": "SUPER/USDT:USDT",
+  "base": "SUPER",
+  "onboard": "2023-11-26"
+ },
+ {
+  "symbol": "USTC/USDT:USDT",
+  "base": "USTC",
+  "onboard": "2023-11-27"
+ },
+ {
+  "symbol": "ONG/USDT:USDT",
+  "base": "ONG",
+  "onboard": "2023-11-27"
+ },
+ {
+  "symbol": "ETHW/USDT:USDT",
+  "base": "ETHW",
+  "onboard": "2023-11-28"
+ },
+ {
+  "symbol": "JTO/USDT:USDT",
+  "base": "JTO",
+  "onboard": "2023-12-08"
+ },
+ {
+  "symbol": "1000SATS/USDT:USDT",
+  "base": "1000SATS",
+  "onboard": "2023-12-12"
+ },
+ {
+  "symbol": "AUCTION/USDT:USDT",
+  "base": "AUCTION",
+  "onboard": "2023-12-15"
+ },
+ {
+  "symbol": "1000RATS/USDT:USDT",
+  "base": "1000RATS",
+  "onboard": "2023-12-15"
+ },
+ {
+  "symbol": "ACE/USDT:USDT",
+  "base": "ACE",
+  "onboard": "2023-12-18"
+ },
+ {
+  "symbol": "MOVR/USDT:USDT",
+  "base": "MOVR",
+  "onboard": "2023-12-26"
+ },
+ {
+  "symbol": "XAI/USDT:USDT",
+  "base": "XAI",
+  "onboard": "2024-01-09"
+ },
+ {
+  "symbol": "WIF/USDT:USDT",
+  "base": "WIF",
+  "onboard": "2024-01-18"
+ },
+ {
+  "symbol": "MANTA/USDT:USDT",
+  "base": "MANTA",
+  "onboard": "2024-01-18"
+ },
+ {
+  "symbol": "ONDO/USDT:USDT",
+  "base": "ONDO",
+  "onboard": "2024-01-20"
+ },
+ {
+  "symbol": "LSK/USDT:USDT",
+  "base": "LSK",
+  "onboard": "2024-01-25"
+ },
+ {
+  "symbol": "ALT/USDT:USDT",
+  "base": "ALT",
+  "onboard": "2024-01-25"
+ },
+ {
+  "symbol": "JUP/USDT:USDT",
+  "base": "JUP",
+  "onboard": "2024-01-31"
+ },
+ {
+  "symbol": "ZETA/USDT:USDT",
+  "base": "ZETA",
+  "onboard": "2024-02-02"
+ },
+ {
+  "symbol": "RONIN/USDT:USDT",
+  "base": "RONIN",
+  "onboard": "2024-02-06"
+ },
+ {
+  "symbol": "DYM/USDT:USDT",
+  "base": "DYM",
+  "onboard": "2024-02-07"
+ },
+ {
+  "symbol": "PIXEL/USDT:USDT",
+  "base": "PIXEL",
+  "onboard": "2024-02-19"
+ },
+ {
+  "symbol": "STRK/USDT:USDT",
+  "base": "STRK",
+  "onboard": "2024-02-20"
+ },
+ {
+  "symbol": "GLM/USDT:USDT",
+  "base": "GLM",
+  "onboard": "2024-02-22"
+ },
+ {
+  "symbol": "PORTAL/USDT:USDT",
+  "base": "PORTAL",
+  "onboard": "2024-02-29"
+ },
+ {
+  "symbol": "AXL/USDT:USDT",
+  "base": "AXL",
+  "onboard": "2024-03-01"
+ },
+ {
+  "symbol": "METIS/USDT:USDT",
+  "base": "METIS",
+  "onboard": "2024-03-12"
+ },
+ {
+  "symbol": "AEVO/USDT:USDT",
+  "base": "AEVO",
+  "onboard": "2024-03-13"
+ },
+ {
+  "symbol": "BOME/USDT:USDT",
+  "base": "BOME",
+  "onboard": "2024-03-16"
+ },
+ {
+  "symbol": "ETHFI/USDT:USDT",
+  "base": "ETHFI",
+  "onboard": "2024-03-18"
+ },
+ {
+  "symbol": "ENA/USDT:USDT",
+  "base": "ENA",
+  "onboard": "2024-04-02"
+ },
+ {
+  "symbol": "W/USDT:USDT",
+  "base": "W",
+  "onboard": "2024-04-03"
+ },
+ {
+  "symbol": "TNSR/USDT:USDT",
+  "base": "TNSR",
+  "onboard": "2024-04-08"
+ },
+ {
+  "symbol": "SAGA/USDT:USDT",
+  "base": "SAGA",
+  "onboard": "2024-04-09"
+ },
+ {
+  "symbol": "TAO/USDT:USDT",
+  "base": "TAO",
+  "onboard": "2024-04-11"
+ },
+ {
+  "symbol": "REZ/USDT:USDT",
+  "base": "REZ",
+  "onboard": "2024-04-30"
+ },
+ {
+  "symbol": "BB/USDT:USDT",
+  "base": "BB",
+  "onboard": "2024-05-13"
+ },
+ {
+  "symbol": "NOT/USDT:USDT",
+  "base": "NOT",
+  "onboard": "2024-05-16"
+ },
+ {
+  "symbol": "TURBO/USDT:USDT",
+  "base": "TURBO",
+  "onboard": "2024-05-30"
+ },
+ {
+  "symbol": "IO/USDT:USDT",
+  "base": "IO",
+  "onboard": "2024-06-11"
+ },
+ {
+  "symbol": "ZK/USDT:USDT",
+  "base": "ZK",
+  "onboard": "2024-06-17"
+ },
+ {
+  "symbol": "MEW/USDT:USDT",
+  "base": "MEW",
+  "onboard": "2024-06-17"
+ },
+ {
+  "symbol": "LISTA/USDT:USDT",
+  "base": "LISTA",
+  "onboard": "2024-06-20"
+ },
+ {
+  "symbol": "ZRO/USDT:USDT",
+  "base": "ZRO",
+  "onboard": "2024-06-20"
+ },
+ {
+  "symbol": "RENDER/USDT:USDT",
+  "base": "RENDER",
+  "onboard": "2024-07-26"
+ },
+ {
+  "symbol": "BANANA/USDT:USDT",
+  "base": "BANANA",
+  "onboard": "2024-08-15"
+ },
+ {
+  "symbol": "RARE/USDT:USDT",
+  "base": "RARE",
+  "onboard": "2024-08-15"
+ },
+ {
+  "symbol": "G/USDT:USDT",
+  "base": "G",
+  "onboard": "2024-08-15"
+ },
+ {
+  "symbol": "SYN/USDT:USDT",
+  "base": "SYN",
+  "onboard": "2024-08-16"
+ },
+ {
+  "symbol": "BRETT/USDT:USDT",
+  "base": "BRETT",
+  "onboard": "2024-08-20"
+ },
+ {
+  "symbol": "POPCAT/USDT:USDT",
+  "base": "POPCAT",
+  "onboard": "2024-08-22"
+ },
+ {
+  "symbol": "SUN/USDT:USDT",
+  "base": "SUN",
+  "onboard": "2024-08-22"
+ },
+ {
+  "symbol": "DOGS/USDT:USDT",
+  "base": "DOGS",
+  "onboard": "2024-08-26"
+ },
+ {
+  "symbol": "FLUX/USDT:USDT",
+  "base": "FLUX",
+  "onboard": "2024-09-03"
+ },
+ {
+  "symbol": "RPL/USDT:USDT",
+  "base": "RPL",
+  "onboard": "2024-09-09"
+ },
+ {
+  "symbol": "POL/USDT:USDT",
+  "base": "POL",
+  "onboard": "2024-09-13"
+ },
+ {
+  "symbol": "1MBABYDOGE/USDT:USDT",
+  "base": "1MBABYDOGE",
+  "onboard": "2024-09-16"
+ },
+ {
+  "symbol": "NEIRO/USDT:USDT",
+  "base": "NEIRO",
+  "onboard": "2024-09-16"
+ },
+ {
+  "symbol": "FIDA/USDT:USDT",
+  "base": "FIDA",
+  "onboard": "2024-09-19"
+ },
+ {
+  "symbol": "CATI/USDT:USDT",
+  "base": "CATI",
+  "onboard": "2024-09-20"
+ },
+ {
+  "symbol": "HMSTR/USDT:USDT",
+  "base": "HMSTR",
+  "onboard": "2024-09-26"
+ },
+ {
+  "symbol": "EIGEN/USDT:USDT",
+  "base": "EIGEN",
+  "onboard": "2024-10-01"
+ },
+ {
+  "symbol": "DIA/USDT:USDT",
+  "base": "DIA",
+  "onboard": "2024-10-02"
+ },
+ {
+  "symbol": "1000CAT/USDT:USDT",
+  "base": "1000CAT",
+  "onboard": "2024-10-21"
+ },
+ {
+  "symbol": "SCR/USDT:USDT",
+  "base": "SCR",
+  "onboard": "2024-10-22"
+ },
+ {
+  "symbol": "GOAT/USDT:USDT",
+  "base": "GOAT",
+  "onboard": "2024-10-24"
+ },
+ {
+  "symbol": "MOODENG/USDT:USDT",
+  "base": "MOODENG",
+  "onboard": "2024-10-25"
+ },
+ {
+  "symbol": "SAFE/USDT:USDT",
+  "base": "SAFE",
+  "onboard": "2024-10-25"
+ },
+ {
+  "symbol": "SANTOS/USDT:USDT",
+  "base": "SANTOS",
+  "onboard": "2024-10-28"
+ },
+ {
+  "symbol": "COW/USDT:USDT",
+  "base": "COW",
+  "onboard": "2024-11-06"
+ },
+ {
+  "symbol": "CETUS/USDT:USDT",
+  "base": "CETUS",
+  "onboard": "2024-11-06"
+ },
+ {
+  "symbol": "1000000MOG/USDT:USDT",
+  "base": "1000000MOG",
+  "onboard": "2024-11-07"
+ },
+ {
+  "symbol": "GRASS/USDT:USDT",
+  "base": "GRASS",
+  "onboard": "2024-11-08"
+ },
+ {
+  "symbol": "DRIFT/USDT:USDT",
+  "base": "DRIFT",
+  "onboard": "2024-11-08"
+ },
+ {
+  "symbol": "ACT/USDT:USDT",
+  "base": "ACT",
+  "onboard": "2024-11-11"
+ },
+ {
+  "symbol": "PNUT/USDT:USDT",
+  "base": "PNUT",
+  "onboard": "2024-11-11"
+ },
+ {
+  "symbol": "BAN/USDT:USDT",
+  "base": "BAN",
+  "onboard": "2024-11-18"
+ },
+ {
+  "symbol": "AKT/USDT:USDT",
+  "base": "AKT",
+  "onboard": "2024-11-18"
+ },
+ {
+  "symbol": "1000CHEEMS/USDT:USDT",
+  "base": "1000CHEEMS",
+  "onboard": "2024-11-25"
+ },
+ {
+  "symbol": "THE/USDT:USDT",
+  "base": "THE",
+  "onboard": "2024-11-27"
+ },
+ {
+  "symbol": "MORPHO/USDT:USDT",
+  "base": "MORPHO",
+  "onboard": "2024-11-27"
+ },
+ {
+  "symbol": "CHILLGUY/USDT:USDT",
+  "base": "CHILLGUY",
+  "onboard": "2024-11-27"
+ },
+ {
+  "symbol": "KAIA/USDT:USDT",
+  "base": "KAIA",
+  "onboard": "2024-12-04"
+ },
+ {
+  "symbol": "AERO/USDT:USDT",
+  "base": "AERO",
+  "onboard": "2024-12-04"
+ },
+ {
+  "symbol": "ORCA/USDT:USDT",
+  "base": "ORCA",
+  "onboard": "2024-12-06"
+ },
+ {
+  "symbol": "MOVE/USDT:USDT",
+  "base": "MOVE",
+  "onboard": "2024-12-09"
+ },
+ {
+  "symbol": "RAYSOL/USDT:USDT",
+  "base": "RAYSOL",
+  "onboard": "2024-12-10"
+ },
+ {
+  "symbol": "KOMA/USDT:USDT",
+  "base": "KOMA",
+  "onboard": "2024-12-10"
+ },
+ {
+  "symbol": "VIRTUAL/USDT:USDT",
+  "base": "VIRTUAL",
+  "onboard": "2024-12-10"
+ },
+ {
+  "symbol": "SPX/USDT:USDT",
+  "base": "SPX",
+  "onboard": "2024-12-10"
+ },
+ {
+  "symbol": "ME/USDT:USDT",
+  "base": "ME",
+  "onboard": "2024-12-10"
+ },
+ {
+  "symbol": "AVA/USDT:USDT",
+  "base": "AVA",
+  "onboard": "2024-12-13"
+ },
+ {
+  "symbol": "VELODROME/USDT:USDT",
+  "base": "VELODROME",
+  "onboard": "2024-12-13"
+ },
+ {
+  "symbol": "MOCA/USDT:USDT",
+  "base": "MOCA",
+  "onboard": "2024-12-16"
+ },
+ {
+  "symbol": "VANA/USDT:USDT",
+  "base": "VANA",
+  "onboard": "2024-12-16"
+ },
+ {
+  "symbol": "PENGU/USDT:USDT",
+  "base": "PENGU",
+  "onboard": "2024-12-17"
+ },
+ {
+  "symbol": "LUMIA/USDT:USDT",
+  "base": "LUMIA",
+  "onboard": "2024-12-18"
+ },
+ {
+  "symbol": "USUAL/USDT:USDT",
+  "base": "USUAL",
+  "onboard": "2024-12-18"
+ },
+ {
+  "symbol": "AIXBT/USDT:USDT",
+  "base": "AIXBT",
+  "onboard": "2024-12-20"
+ },
+ {
+  "symbol": "FARTCOIN/USDT:USDT",
+  "base": "FARTCOIN",
+  "onboard": "2024-12-20"
+ },
+ {
+  "symbol": "KMNO/USDT:USDT",
+  "base": "KMNO",
+  "onboard": "2024-12-20"
+ },
+ {
+  "symbol": "CGPT/USDT:USDT",
+  "base": "CGPT",
+  "onboard": "2024-12-20"
+ },
+ {
+  "symbol": "HIVE/USDT:USDT",
+  "base": "HIVE",
+  "onboard": "2024-12-23"
+ },
+ {
+  "symbol": "DEXE/USDT:USDT",
+  "base": "DEXE",
+  "onboard": "2024-12-24"
+ },
+ {
+  "symbol": "PHA/USDT:USDT",
+  "base": "PHA",
+  "onboard": "2024-12-30"
+ },
+ {
+  "symbol": "GRIFFAIN/USDT:USDT",
+  "base": "GRIFFAIN",
+  "onboard": "2025-01-02"
+ },
+ {
+  "symbol": "ZEREBRO/USDT:USDT",
+  "base": "ZEREBRO",
+  "onboard": "2025-01-02"
+ },
+ {
+  "symbol": "BIO/USDT:USDT",
+  "base": "BIO",
+  "onboard": "2025-01-03"
+ },
+ {
+  "symbol": "COOKIE/USDT:USDT",
+  "base": "COOKIE",
+  "onboard": "2025-01-07"
+ },
+ {
+  "symbol": "ALCH/USDT:USDT",
+  "base": "ALCH",
+  "onboard": "2025-01-07"
+ },
+ {
+  "symbol": "SWARMS/USDT:USDT",
+  "base": "SWARMS",
+  "onboard": "2025-01-07"
+ },
+ {
+  "symbol": "SONIC/USDT:USDT",
+  "base": "SONIC",
+  "onboard": "2025-01-08"
+ },
+ {
+  "symbol": "PROM/USDT:USDT",
+  "base": "PROM",
+  "onboard": "2025-01-15"
+ },
+ {
+  "symbol": "S/USDT:USDT",
+  "base": "S",
+  "onboard": "2025-01-16"
+ },
+ {
+  "symbol": "SOLV/USDT:USDT",
+  "base": "SOLV",
+  "onboard": "2025-01-17"
+ },
+ {
+  "symbol": "ARC/USDT:USDT",
+  "base": "ARC",
+  "onboard": "2025-01-17"
+ },
+ {
+  "symbol": "AVAAI/USDT:USDT",
+  "base": "AVAAI",
+  "onboard": "2025-01-17"
+ },
+ {
+  "symbol": "TRUMP/USDT:USDT",
+  "base": "TRUMP",
+  "onboard": "2025-01-18"
+ },
+ {
+  "symbol": "MELANIA/USDT:USDT",
+  "base": "MELANIA",
+  "onboard": "2025-01-20"
+ },
+ {
+  "symbol": "VTHO/USDT:USDT",
+  "base": "VTHO",
+  "onboard": "2025-01-22"
+ },
+ {
+  "symbol": "ANIME/USDT:USDT",
+  "base": "ANIME",
+  "onboard": "2025-01-23"
+ },
+ {
+  "symbol": "PIPPIN/USDT:USDT",
+  "base": "PIPPIN",
+  "onboard": "2025-01-24"
+ },
+ {
+  "symbol": "VVV/USDT:USDT",
+  "base": "VVV",
+  "onboard": "2025-01-29"
+ },
+ {
+  "symbol": "BERA/USDT:USDT",
+  "base": "BERA",
+  "onboard": "2025-02-06"
+ },
+ {
+  "symbol": "TST/USDT:USDT",
+  "base": "TST",
+  "onboard": "2025-02-09"
+ },
+ {
+  "symbol": "LAYER/USDT:USDT",
+  "base": "LAYER",
+  "onboard": "2025-02-11"
+ },
+ {
+  "symbol": "HEI/USDT:USDT",
+  "base": "HEI",
+  "onboard": "2025-02-13"
+ },
+ {
+  "symbol": "GPS/USDT:USDT",
+  "base": "GPS",
+  "onboard": "2025-02-17"
+ },
+ {
+  "symbol": "SHELL/USDT:USDT",
+  "base": "SHELL",
+  "onboard": "2025-02-17"
+ },
+ {
+  "symbol": "KAITO/USDT:USDT",
+  "base": "KAITO",
+  "onboard": "2025-02-20"
+ },
+ {
+  "symbol": "RED/USDT:USDT",
+  "base": "RED",
+  "onboard": "2025-03-06"
+ },
+ {
+  "symbol": "EPIC/USDT:USDT",
+  "base": "EPIC",
+  "onboard": "2025-03-13"
+ },
+ {
+  "symbol": "BMT/USDT:USDT",
+  "base": "BMT",
+  "onboard": "2025-03-17"
+ },
+ {
+  "symbol": "MUBARAK/USDT:USDT",
+  "base": "MUBARAK",
+  "onboard": "2025-03-17"
+ },
+ {
+  "symbol": "FORM/USDT:USDT",
+  "base": "FORM",
+  "onboard": "2025-03-19"
+ },
+ {
+  "symbol": "TUT/USDT:USDT",
+  "base": "TUT",
+  "onboard": "2025-03-20"
+ },
+ {
+  "symbol": "BROCCOLI714/USDT:USDT",
+  "base": "BROCCOLI714",
+  "onboard": "2025-03-21"
+ },
+ {
+  "symbol": "BROCCOLIF3B/USDT:USDT",
+  "base": "BROCCOLIF3B",
+  "onboard": "2025-03-21"
+ },
+ {
+  "symbol": "BR/USDT:USDT",
+  "base": "BR",
+  "onboard": "2025-03-21"
+ },
+ {
+  "symbol": "PLUME/USDT:USDT",
+  "base": "PLUME",
+  "onboard": "2025-03-21"
+ },
+ {
+  "symbol": "SIREN/USDT:USDT",
+  "base": "SIREN",
+  "onboard": "2025-03-22"
+ },
+ {
+  "symbol": "BANANAS31/USDT:USDT",
+  "base": "BANANAS31",
+  "onboard": "2025-03-22"
+ },
+ {
+  "symbol": "NIL/USDT:USDT",
+  "base": "NIL",
+  "onboard": "2025-03-24"
+ },
+ {
+  "symbol": "PARTI/USDT:USDT",
+  "base": "PARTI",
+  "onboard": "2025-03-25"
+ },
+ {
+  "symbol": "JELLYJELLY/USDT:USDT",
+  "base": "JELLYJELLY",
+  "onboard": "2025-03-26"
+ },
+ {
+  "symbol": "MAVIA/USDT:USDT",
+  "base": "MAVIA",
+  "onboard": "2025-03-26"
+ },
+ {
+  "symbol": "PAXG/USDT:USDT",
+  "base": "PAXG",
+  "onboard": "2025-03-27"
+ },
+ {
+  "symbol": "WAL/USDT:USDT",
+  "base": "WAL",
+  "onboard": "2025-03-27"
+ },
+ {
+  "symbol": "GUN/USDT:USDT",
+  "base": "GUN",
+  "onboard": "2025-03-31"
+ },
+ {
+  "symbol": "ATH/USDT:USDT",
+  "base": "ATH",
+  "onboard": "2025-04-02"
+ },
+ {
+  "symbol": "BABY/USDT:USDT",
+  "base": "BABY",
+  "onboard": "2025-04-05"
+ },
+ {
+  "symbol": "PROMPT/USDT:USDT",
+  "base": "PROMPT",
+  "onboard": "2025-04-11"
+ },
+ {
+  "symbol": "STO/USDT:USDT",
+  "base": "STO",
+  "onboard": "2025-04-12"
+ },
+ {
+  "symbol": "FHE/USDT:USDT",
+  "base": "FHE",
+  "onboard": "2025-04-12"
+ },
+ {
+  "symbol": "KERNEL/USDT:USDT",
+  "base": "KERNEL",
+  "onboard": "2025-04-14"
+ },
+ {
+  "symbol": "WCT/USDT:USDT",
+  "base": "WCT",
+  "onboard": "2025-04-15"
+ },
+ {
+  "symbol": "INIT/USDT:USDT",
+  "base": "INIT",
+  "onboard": "2025-04-16"
+ },
+ {
+  "symbol": "BANK/USDT:USDT",
+  "base": "BANK",
+  "onboard": "2025-04-18"
+ },
+ {
+  "symbol": "DEEP/USDT:USDT",
+  "base": "DEEP",
+  "onboard": "2025-04-22"
+ },
+ {
+  "symbol": "HYPER/USDT:USDT",
+  "base": "HYPER",
+  "onboard": "2025-04-22"
+ },
+ {
+  "symbol": "JST/USDT:USDT",
+  "base": "JST",
+  "onboard": "2025-04-28"
+ },
+ {
+  "symbol": "SIGN/USDT:USDT",
+  "base": "SIGN",
+  "onboard": "2025-04-28"
+ },
+ {
+  "symbol": "PUNDIX/USDT:USDT",
+  "base": "PUNDIX",
+  "onboard": "2025-04-30"
+ },
+ {
+  "symbol": "CTK/USDT:USDT",
+  "base": "CTK",
+  "onboard": "2025-04-30"
+ },
+ {
+  "symbol": "AIOT/USDT:USDT",
+  "base": "AIOT",
+  "onboard": "2025-04-30"
+ },
+ {
+  "symbol": "DOLO/USDT:USDT",
+  "base": "DOLO",
+  "onboard": "2025-05-01"
+ },
+ {
+  "symbol": "HAEDAL/USDT:USDT",
+  "base": "HAEDAL",
+  "onboard": "2025-05-01"
+ },
+ {
+  "symbol": "SXT/USDT:USDT",
+  "base": "SXT",
+  "onboard": "2025-05-02"
+ },
+ {
+  "symbol": "ASR/USDT:USDT",
+  "base": "ASR",
+  "onboard": "2025-05-06"
+ },
+ {
+  "symbol": "ALPINE/USDT:USDT",
+  "base": "ALPINE",
+  "onboard": "2025-05-06"
+ },
+ {
+  "symbol": "B2/USDT:USDT",
+  "base": "B2",
+  "onboard": "2025-05-06"
+ },
+ {
+  "symbol": "SYRUP/USDT:USDT",
+  "base": "SYRUP",
+  "onboard": "2025-05-07"
+ },
+ {
+  "symbol": "DOOD/USDT:USDT",
+  "base": "DOOD",
+  "onboard": "2025-05-09"
+ },
+ {
+  "symbol": "OG/USDT:USDT",
+  "base": "OG",
+  "onboard": "2025-05-12"
+ },
+ {
+  "symbol": "SKYAI/USDT:USDT",
+  "base": "SKYAI",
+  "onboard": "2025-05-13"
+ },
+ {
+  "symbol": "NXPC/USDT:USDT",
+  "base": "NXPC",
+  "onboard": "2025-05-15"
+ },
+ {
+  "symbol": "CVC/USDT:USDT",
+  "base": "CVC",
+  "onboard": "2025-05-16"
+ },
+ {
+  "symbol": "AGT/USDT:USDT",
+  "base": "AGT",
+  "onboard": "2025-05-20"
+ },
+ {
+  "symbol": "AWE/USDT:USDT",
+  "base": "AWE",
+  "onboard": "2025-05-21"
+ },
+ {
+  "symbol": "B/USDT:USDT",
+  "base": "B",
+  "onboard": "2025-05-22"
+ },
+ {
+  "symbol": "SOON/USDT:USDT",
+  "base": "SOON",
+  "onboard": "2025-05-23"
+ },
+ {
+  "symbol": "HUMA/USDT:USDT",
+  "base": "HUMA",
+  "onboard": "2025-05-26"
+ },
+ {
+  "symbol": "A/USDT:USDT",
+  "base": "A",
+  "onboard": "2025-05-28"
+ },
+ {
+  "symbol": "SOPH/USDT:USDT",
+  "base": "SOPH",
+  "onboard": "2025-05-28"
+ },
+ {
+  "symbol": "MERL/USDT:USDT",
+  "base": "MERL",
+  "onboard": "2025-05-29"
+ },
+ {
+  "symbol": "HYPE/USDT:USDT",
+  "base": "HYPE",
+  "onboard": "2025-05-30"
+ },
+ {
+  "symbol": "1000000BOB/USDT:USDT",
+  "base": "1000000BOB",
+  "onboard": "2025-06-05"
+ },
+ {
+  "symbol": "LA/USDT:USDT",
+  "base": "LA",
+  "onboard": "2025-06-05"
+ },
+ {
+  "symbol": "HOME/USDT:USDT",
+  "base": "HOME",
+  "onboard": "2025-06-10"
+ },
+ {
+  "symbol": "RESOLV/USDT:USDT",
+  "base": "RESOLV",
+  "onboard": "2025-06-10"
+ },
+ {
+  "symbol": "TAIKO/USDT:USDT",
+  "base": "TAIKO",
+  "onboard": "2025-06-11"
+ },
+ {
+  "symbol": "SQD/USDT:USDT",
+  "base": "SQD",
+  "onboard": "2025-06-11"
+ },
+ {
+  "symbol": "PUMPBTC/USDT:USDT",
+  "base": "PUMPBTC",
+  "onboard": "2025-06-13"
+ },
+ {
+  "symbol": "SPK/USDT:USDT",
+  "base": "SPK",
+  "onboard": "2025-06-17"
+ },
+ {
+  "symbol": "MYX/USDT:USDT",
+  "base": "MYX",
+  "onboard": "2025-06-18"
+ },
+ {
+  "symbol": "F/USDT:USDT",
+  "base": "F",
+  "onboard": "2025-06-18"
+ },
+ {
+  "symbol": "NEWT/USDT:USDT",
+  "base": "NEWT",
+  "onboard": "2025-06-19"
+ },
+ {
+  "symbol": "H/USDT:USDT",
+  "base": "H",
+  "onboard": "2025-06-25"
+ },
+ {
+  "symbol": "SAHARA/USDT:USDT",
+  "base": "SAHARA",
+  "onboard": "2025-06-26"
+ },
+ {
+  "symbol": "ICNT/USDT:USDT",
+  "base": "ICNT",
+  "onboard": "2025-07-03"
+ },
+ {
+  "symbol": "BULLA/USDT:USDT",
+  "base": "BULLA",
+  "onboard": "2025-07-04"
+ },
+ {
+  "symbol": "IDOL/USDT:USDT",
+  "base": "IDOL",
+  "onboard": "2025-07-04"
+ },
+ {
+  "symbol": "M/USDT:USDT",
+  "base": "M",
+  "onboard": "2025-07-07"
+ },
+ {
+  "symbol": "PUMP/USDT:USDT",
+  "base": "PUMP",
+  "onboard": "2025-07-10"
+ },
+ {
+  "symbol": "CROSS/USDT:USDT",
+  "base": "CROSS",
+  "onboard": "2025-07-10"
+ },
+ {
+  "symbol": "AIN/USDT:USDT",
+  "base": "AIN",
+  "onboard": "2025-07-10"
+ },
+ {
+  "symbol": "C/USDT:USDT",
+  "base": "C",
+  "onboard": "2025-07-15"
+ },
+ {
+  "symbol": "VELVET/USDT:USDT",
+  "base": "VELVET",
+  "onboard": "2025-07-15"
+ },
+ {
+  "symbol": "TAC/USDT:USDT",
+  "base": "TAC",
+  "onboard": "2025-07-15"
+ },
+ {
+  "symbol": "ERA/USDT:USDT",
+  "base": "ERA",
+  "onboard": "2025-07-17"
+ },
+ {
+  "symbol": "TA/USDT:USDT",
+  "base": "TA",
+  "onboard": "2025-07-21"
+ },
+ {
+  "symbol": "CVX/USDT:USDT",
+  "base": "CVX",
+  "onboard": "2025-07-23"
+ },
+ {
+  "symbol": "SLP/USDT:USDT",
+  "base": "SLP",
+  "onboard": "2025-07-23"
+ },
+ {
+  "symbol": "ZORA/USDT:USDT",
+  "base": "ZORA",
+  "onboard": "2025-07-25"
+ },
+ {
+  "symbol": "TAG/USDT:USDT",
+  "base": "TAG",
+  "onboard": "2025-07-25"
+ },
+ {
+  "symbol": "ESPORTS/USDT:USDT",
+  "base": "ESPORTS",
+  "onboard": "2025-07-29"
+ },
+ {
+  "symbol": "TREE/USDT:USDT",
+  "base": "TREE",
+  "onboard": "2025-07-29"
+ },
+ {
+  "symbol": "PLAY/USDT:USDT",
+  "base": "PLAY",
+  "onboard": "2025-07-31"
+ },
+ {
+  "symbol": "NAORIS/USDT:USDT",
+  "base": "NAORIS",
+  "onboard": "2025-07-31"
+ },
+ {
+  "symbol": "TOWNS/USDT:USDT",
+  "base": "TOWNS",
+  "onboard": "2025-08-05"
+ },
+ {
+  "symbol": "PROVE/USDT:USDT",
+  "base": "PROVE",
+  "onboard": "2025-08-05"
+ },
+ {
+  "symbol": "IN/USDT:USDT",
+  "base": "IN",
+  "onboard": "2025-08-07"
+ },
+ {
+  "symbol": "CARV/USDT:USDT",
+  "base": "CARV",
+  "onboard": "2025-08-07"
+ },
+ {
+  "symbol": "AIO/USDT:USDT",
+  "base": "AIO",
+  "onboard": "2025-08-13"
+ },
+ {
+  "symbol": "XNY/USDT:USDT",
+  "base": "XNY",
+  "onboard": "2025-08-13"
+ },
+ {
+  "symbol": "USELESS/USDT:USDT",
+  "base": "USELESS",
+  "onboard": "2025-08-15"
+ },
+ {
+  "symbol": "SAPIEN/USDT:USDT",
+  "base": "SAPIEN",
+  "onboard": "2025-08-20"
+ },
+ {
+  "symbol": "XPL/USDT:USDT",
+  "base": "XPL",
+  "onboard": "2025-08-22"
+ },
+ {
+  "symbol": "WLFI/USDT:USDT",
+  "base": "WLFI",
+  "onboard": "2025-08-23"
+ },
+ {
+  "symbol": "SOMI/USDT:USDT",
+  "base": "SOMI",
+  "onboard": "2025-08-25"
+ },
+ {
+  "symbol": "BAS/USDT:USDT",
+  "base": "BAS",
+  "onboard": "2025-08-26"
+ },
+ {
+  "symbol": "BTR/USDT:USDT",
+  "base": "BTR",
+  "onboard": "2025-08-27"
+ },
+ {
+  "symbol": "MITO/USDT:USDT",
+  "base": "MITO",
+  "onboard": "2025-08-28"
+ },
+ {
+  "symbol": "HEMI/USDT:USDT",
+  "base": "HEMI",
+  "onboard": "2025-08-29"
+ },
+ {
+  "symbol": "LINEA/USDT:USDT",
+  "base": "LINEA",
+  "onboard": "2025-09-01"
+ },
+ {
+  "symbol": "Q/USDT:USDT",
+  "base": "Q",
+  "onboard": "2025-09-02"
+ },
+ {
+  "symbol": "ARIA/USDT:USDT",
+  "base": "ARIA",
+  "onboard": "2025-09-03"
+ },
+ {
+  "symbol": "TAKE/USDT:USDT",
+  "base": "TAKE",
+  "onboard": "2025-09-03"
+ },
+ {
+  "symbol": "PTB/USDT:USDT",
+  "base": "PTB",
+  "onboard": "2025-09-03"
+ },
+ {
+  "symbol": "OPEN/USDT:USDT",
+  "base": "OPEN",
+  "onboard": "2025-09-08"
+ },
+ {
+  "symbol": "FLOCK/USDT:USDT",
+  "base": "FLOCK",
+  "onboard": "2025-09-09"
+ },
+ {
+  "symbol": "SKY/USDT:USDT",
+  "base": "SKY",
+  "onboard": "2025-09-09"
+ },
+ {
+  "symbol": "AVNT/USDT:USDT",
+  "base": "AVNT",
+  "onboard": "2025-09-09"
+ },
+ {
+  "symbol": "HOLO/USDT:USDT",
+  "base": "HOLO",
+  "onboard": "2025-09-11"
+ },
+ {
+  "symbol": "XPIN/USDT:USDT",
+  "base": "XPIN",
+  "onboard": "2025-09-12"
+ },
+ {
+  "symbol": "UB/USDT:USDT",
+  "base": "UB",
+  "onboard": "2025-09-12"
+ },
+ {
+  "symbol": "ZKC/USDT:USDT",
+  "base": "ZKC",
+  "onboard": "2025-09-15"
+ },
+ {
+  "symbol": "TOSHI/USDT:USDT",
+  "base": "TOSHI",
+  "onboard": "2025-09-17"
+ },
+ {
+  "symbol": "STBL/USDT:USDT",
+  "base": "STBL",
+  "onboard": "2025-09-17"
+ },
+ {
+  "symbol": "0G/USDT:USDT",
+  "base": "0G",
+  "onboard": "2025-09-17"
+ },
+ {
+  "symbol": "BARD/USDT:USDT",
+  "base": "BARD",
+  "onboard": "2025-09-18"
+ },
+ {
+  "symbol": "ASTER/USDT:USDT",
+  "base": "ASTER",
+  "onboard": "2025-09-19"
+ },
+ {
+  "symbol": "TRADOOR/USDT:USDT",
+  "base": "TRADOOR",
+  "onboard": "2025-09-19"
+ },
+ {
+  "symbol": "BLESS/USDT:USDT",
+  "base": "BLESS",
+  "onboard": "2025-09-23"
+ },
+ {
+  "symbol": "FLUID/USDT:USDT",
+  "base": "FLUID",
+  "onboard": "2025-09-24"
+ },
+ {
+  "symbol": "COAI/USDT:USDT",
+  "base": "COAI",
+  "onboard": "2025-09-25"
+ },
+ {
+  "symbol": "HANA/USDT:USDT",
+  "base": "HANA",
+  "onboard": "2025-09-26"
+ },
+ {
+  "symbol": "MIRA/USDT:USDT",
+  "base": "MIRA",
+  "onboard": "2025-09-26"
+ },
+ {
+  "symbol": "AKE/USDT:USDT",
+  "base": "AKE",
+  "onboard": "2025-09-26"
+ },
+ {
+  "symbol": "ORDER/USDT:USDT",
+  "base": "ORDER",
+  "onboard": "2025-09-26"
+ },
+ {
+  "symbol": "LIGHT/USDT:USDT",
+  "base": "LIGHT",
+  "onboard": "2025-09-27"
+ },
+ {
+  "symbol": "XAN/USDT:USDT",
+  "base": "XAN",
+  "onboard": "2025-09-29"
+ },
+ {
+  "symbol": "FF/USDT:USDT",
+  "base": "FF",
+  "onboard": "2025-09-29"
+ },
+ {
+  "symbol": "EDEN/USDT:USDT",
+  "base": "EDEN",
+  "onboard": "2025-09-30"
+ },
+ {
+  "symbol": "NOM/USDT:USDT",
+  "base": "NOM",
+  "onboard": "2025-10-01"
+ },
+ {
+  "symbol": "TRUTH/USDT:USDT",
+  "base": "TRUTH",
+  "onboard": "2025-10-01"
+ },
+ {
+  "symbol": "2Z/USDT:USDT",
+  "base": "2Z",
+  "onboard": "2025-10-02"
+ },
+ {
+  "symbol": "EVAA/USDT:USDT",
+  "base": "EVAA",
+  "onboard": "2025-10-03"
+ },
+ {
+  "symbol": "LYN/USDT:USDT",
+  "base": "LYN",
+  "onboard": "2025-10-06"
+ },
+ {
+  "symbol": "KGEN/USDT:USDT",
+  "base": "KGEN",
+  "onboard": "2025-10-07"
+ },
+ {
+  "symbol": "4/USDT:USDT",
+  "base": "4",
+  "onboard": "2025-10-08"
+ },
+ {
+  "symbol": "GIGGLE/USDT:USDT",
+  "base": "GIGGLE",
+  "onboard": "2025-10-09"
+ },
+ {
+  "symbol": "MON/USDT:USDT",
+  "base": "MON",
+  "onboard": "2025-10-10"
+ },
+ {
+  "symbol": "YB/USDT:USDT",
+  "base": "YB",
+  "onboard": "2025-10-10"
+ },
+ {
+  "symbol": "MET/USDT:USDT",
+  "base": "MET",
+  "onboard": "2025-10-11"
+ },
+ {
+  "symbol": "EUL/USDT:USDT",
+  "base": "EUL",
+  "onboard": "2025-10-13"
+ },
+ {
+  "symbol": "ENSO/USDT:USDT",
+  "base": "ENSO",
+  "onboard": "2025-10-14"
+ },
+ {
+  "symbol": "CLO/USDT:USDT",
+  "base": "CLO",
+  "onboard": "2025-10-14"
+ },
+ {
+  "symbol": "RECALL/USDT:USDT",
+  "base": "RECALL",
+  "onboard": "2025-10-15"
+ },
+ {
+  "symbol": "ZBT/USDT:USDT",
+  "base": "ZBT",
+  "onboard": "2025-10-17"
+ },
+ {
+  "symbol": "LAB/USDT:USDT",
+  "base": "LAB",
+  "onboard": "2025-10-17"
+ },
+ {
+  "symbol": "RIVER/USDT:USDT",
+  "base": "RIVER",
+  "onboard": "2025-10-17"
+ },
+ {
+  "symbol": "\u5e01\u5b89\u4eba\u751f/USDT:USDT",
+  "base": "\u5e01\u5b89\u4eba\u751f",
+  "onboard": "2025-10-20"
+ },
+ {
+  "symbol": "BLUAI/USDT:USDT",
+  "base": "BLUAI",
+  "onboard": "2025-10-21"
+ },
+ {
+  "symbol": "TURTLE/USDT:USDT",
+  "base": "TURTLE",
+  "onboard": "2025-10-22"
+ },
+ {
+  "symbol": "APR/USDT:USDT",
+  "base": "APR",
+  "onboard": "2025-10-23"
+ },
+ {
+  "symbol": "ON/USDT:USDT",
+  "base": "ON",
+  "onboard": "2025-10-24"
+ },
+ {
+  "symbol": "KITE/USDT:USDT",
+  "base": "KITE",
+  "onboard": "2025-10-29"
+ },
+ {
+  "symbol": "AT/USDT:USDT",
+  "base": "AT",
+  "onboard": "2025-10-29"
+ },
+ {
+  "symbol": "CC/USDT:USDT",
+  "base": "CC",
+  "onboard": "2025-10-31"
+ },
+ {
+  "symbol": "MMT/USDT:USDT",
+  "base": "MMT",
+  "onboard": "2025-11-04"
+ },
+ {
+  "symbol": "TRUST/USDT:USDT",
+  "base": "TRUST",
+  "onboard": "2025-11-05"
+ },
+ {
+  "symbol": "UAI/USDT:USDT",
+  "base": "UAI",
+  "onboard": "2025-11-06"
+ },
+ {
+  "symbol": "FOLKS/USDT:USDT",
+  "base": "FOLKS",
+  "onboard": "2025-11-06"
+ },
+ {
+  "symbol": "STABLE/USDT:USDT",
+  "base": "STABLE",
+  "onboard": "2025-11-06"
+ },
+ {
+  "symbol": "JCT/USDT:USDT",
+  "base": "JCT",
+  "onboard": "2025-11-10"
+ },
+ {
+  "symbol": "ALLO/USDT:USDT",
+  "base": "ALLO",
+  "onboard": "2025-11-11"
+ },
+ {
+  "symbol": "CLANKER/USDT:USDT",
+  "base": "CLANKER",
+  "onboard": "2025-11-12"
+ },
+ {
+  "symbol": "BEAT/USDT:USDT",
+  "base": "BEAT",
+  "onboard": "2025-11-12"
+ },
+ {
+  "symbol": "PIEVERSE/USDT:USDT",
+  "base": "PIEVERSE",
+  "onboard": "2025-11-14"
+ },
+ {
+  "symbol": "SENT/USDT:USDT",
+  "base": "SENT",
+  "onboard": "2025-11-14"
+ },
+ {
+  "symbol": "IRYS/USDT:USDT",
+  "base": "IRYS",
+  "onboard": "2025-11-26"
+ },
+ {
+  "symbol": "POWER/USDT:USDT",
+  "base": "POWER",
+  "onboard": "2025-12-06"
+ },
+ {
+  "symbol": "WET/USDT:USDT",
+  "base": "WET",
+  "onboard": "2025-12-10"
+ },
+ {
+  "symbol": "NIGHT/USDT:USDT",
+  "base": "NIGHT",
+  "onboard": "2025-12-10"
+ },
+ {
+  "symbol": "US/USDT:USDT",
+  "base": "US",
+  "onboard": "2025-12-12"
+ },
+ {
+  "symbol": "CYS/USDT:USDT",
+  "base": "CYS",
+  "onboard": "2025-12-12"
+ },
+ {
+  "symbol": "RAVE/USDT:USDT",
+  "base": "RAVE",
+  "onboard": "2025-12-14"
+ },
+ {
+  "symbol": "ZKP/USDT:USDT",
+  "base": "ZKP",
+  "onboard": "2025-12-21"
+ },
+ {
+  "symbol": "GUA/USDT:USDT",
+  "base": "GUA",
+  "onboard": "2025-12-21"
+ },
+ {
+  "symbol": "LIT/USDT:USDT",
+  "base": "LIT",
+  "onboard": "2025-12-23"
+ },
+ {
+  "symbol": "BREV/USDT:USDT",
+  "base": "BREV",
+  "onboard": "2025-12-30"
+ },
+ {
+  "symbol": "COLLECT/USDT:USDT",
+  "base": "COLLECT",
+  "onboard": "2025-12-31"
+ },
+ {
+  "symbol": "MAGMA/USDT:USDT",
+  "base": "MAGMA",
+  "onboard": "2025-12-31"
+ },
+ {
+  "symbol": "ZAMA/USDT:USDT",
+  "base": "ZAMA",
+  "onboard": "2026-01-09"
+ },
+ {
+  "symbol": "FOGO/USDT:USDT",
+  "base": "FOGO",
+  "onboard": "2026-01-10"
+ },
+ {
+  "symbol": "FRAX/USDT:USDT",
+  "base": "FRAX",
+  "onboard": "2026-01-15"
+ },
+ {
+  "symbol": "SPORTFUN/USDT:USDT",
+  "base": "SPORTFUN",
+  "onboard": "2026-01-16"
+ },
+ {
+  "symbol": "AIA/USDT:USDT",
+  "base": "AIA",
+  "onboard": "2026-01-20"
+ },
+ {
+  "symbol": "ACU/USDT:USDT",
+  "base": "ACU",
+  "onboard": "2026-01-21"
+ },
+ {
+  "symbol": "\u6211\u8e0f\u9a6c\u6765\u4e86/USDT:USDT",
+  "base": "\u6211\u8e0f\u9a6c\u6765\u4e86",
+  "onboard": "2026-01-21"
+ },
+ {
+  "symbol": "ELSA/USDT:USDT",
+  "base": "ELSA",
+  "onboard": "2026-01-22"
+ },
+ {
+  "symbol": "SKR/USDT:USDT",
+  "base": "SKR",
+  "onboard": "2026-01-22"
+ },
+ {
+  "symbol": "SPACE/USDT:USDT",
+  "base": "SPACE",
+  "onboard": "2026-01-23"
+ },
+ {
+  "symbol": "FIGHT/USDT:USDT",
+  "base": "FIGHT",
+  "onboard": "2026-01-23"
+ },
+ {
+  "symbol": "BIRB/USDT:USDT",
+  "base": "BIRB",
+  "onboard": "2026-01-29"
+ },
+ {
+  "symbol": "GWEI/USDT:USDT",
+  "base": "GWEI",
+  "onboard": "2026-01-29"
+ },
+ {
+  "symbol": "MEGA/USDT:USDT",
+  "base": "MEGA",
+  "onboard": "2026-01-30"
+ },
+ {
+  "symbol": "INX/USDT:USDT",
+  "base": "INX",
+  "onboard": "2026-01-30"
+ },
+ {
+  "symbol": "TRIA/USDT:USDT",
+  "base": "TRIA",
+  "onboard": "2026-02-06"
+ },
+ {
+  "symbol": "ESP/USDT:USDT",
+  "base": "ESP",
+  "onboard": "2026-02-10"
+ },
+ {
+  "symbol": "AZTEC/USDT:USDT",
+  "base": "AZTEC",
+  "onboard": "2026-02-11"
+ },
+ {
+  "symbol": "OPN/USDT:USDT",
+  "base": "OPN",
+  "onboard": "2026-02-21"
+ },
+ {
+  "symbol": "ROBO/USDT:USDT",
+  "base": "ROBO",
+  "onboard": "2026-02-27"
+ },
+ {
+  "symbol": "KAT/USDT:USDT",
+  "base": "KAT",
+  "onboard": "2026-03-02"
+ },
+ {
+  "symbol": "MANTRA/USDT:USDT",
+  "base": "MANTRA",
+  "onboard": "2026-03-04"
+ },
+ {
+  "symbol": "\u9f99\u867e/USDT:USDT",
+  "base": "\u9f99\u867e",
+  "onboard": "2026-03-11"
+ },
+ {
+  "symbol": "CFG/USDT:USDT",
+  "base": "CFG",
+  "onboard": "2026-03-16"
+ },
+ {
+  "symbol": "EDGE/USDT:USDT",
+  "base": "EDGE",
+  "onboard": "2026-03-19"
+ },
+ {
+  "symbol": "BSB/USDT:USDT",
+  "base": "BSB",
+  "onboard": "2026-03-25"
+ },
+ {
+  "symbol": "XAUT/USDT:USDT",
+  "base": "XAUT",
+  "onboard": "2026-03-26"
+ },
+ {
+  "symbol": "BASED/USDT:USDT",
+  "base": "BASED",
+  "onboard": "2026-03-30"
+ },
+ {
+  "symbol": "PRL/USDT:USDT",
+  "base": "PRL",
+  "onboard": "2026-04-01"
+ },
+ {
+  "symbol": "GENIUS/USDT:USDT",
+  "base": "GENIUS",
+  "onboard": "2026-04-16"
+ },
+ {
+  "symbol": "CHIP/USDT:USDT",
+  "base": "CHIP",
+  "onboard": "2026-04-16"
+ },
+ {
+  "symbol": "OPG/USDT:USDT",
+  "base": "OPG",
+  "onboard": "2026-04-22"
+ },
+ {
+  "symbol": "AIGENSYN/USDT:USDT",
+  "base": "AIGENSYN",
+  "onboard": "2026-04-29"
+ },
+ {
+  "symbol": "BILL/USDT:USDT",
+  "base": "BILL",
+  "onboard": "2026-05-07"
+ },
+ {
+  "symbol": "PHAROS/USDT:USDT",
+  "base": "PHAROS",
+  "onboard": "2026-05-14"
+ },
+ {
+  "symbol": "STAR/USDT:USDT",
+  "base": "STAR",
+  "onboard": "2026-05-14"
+ },
+ {
+  "symbol": "CTR/USDT:USDT",
+  "base": "CTR",
+  "onboard": "2026-05-28"
+ },
+ {
+  "symbol": "SLX/USDT:USDT",
+  "base": "SLX",
+  "onboard": "2026-06-01"
+ },
+ {
+  "symbol": "ZEST/USDT:USDT",
+  "base": "ZEST",
+  "onboard": "2026-06-04"
+ },
+ {
+  "symbol": "BTW/USDT:USDT",
+  "base": "BTW",
+  "onboard": "2026-06-04"
+ },
+ {
+  "symbol": "RE/USDT:USDT",
+  "base": "RE",
+  "onboard": "2026-06-18"
+ },
+ {
+  "symbol": "ARX/USDT:USDT",
+  "base": "ARX",
+  "onboard": "2026-06-23"
+ },
+ {
+  "symbol": "O/USDT:USDT",
+  "base": "O",
+  "onboard": "2026-06-24"
+ },
+ {
+  "symbol": "CAP/USDT:USDT",
+  "base": "CAP",
+  "onboard": "2026-06-27"
+ },
+ {
+  "symbol": "GRAM/USDT:USDT",
+  "base": "GRAM",
+  "onboard": "2026-07-02"
+ },
+ {
+  "symbol": "DATAIP/USDT:USDT",
+  "base": "DATAIP",
+  "onboard": "2026-07-03"
+ },
+ {
+  "symbol": "GRVT/USDT:USDT",
+  "base": "GRVT",
+  "onboard": "2026-07-31"
+ },
+ {
+  "symbol": "DOS/USDT:USDT",
+  "base": "DOS",
+  "onboard": "2026-08-11"
+ }
+]

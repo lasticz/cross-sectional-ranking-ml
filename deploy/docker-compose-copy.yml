@@ -1,0 +1,21 @@
+services:
+  freqtrade-copy:
+    image: freqtradeorg/freqtrade:stable
+    container_name: freqtrade-copy
+    restart: unless-stopped
+    volumes:
+      - "./user_data:/freqtrade/user_data"
+    ports:
+      - "127.0.0.1:8085:8085"
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    environment:
+      HTTP_PROXY: http://host.docker.internal:7890
+      HTTPS_PROXY: http://host.docker.internal:7890
+      NO_PROXY: localhost,127.0.0.1
+    command: >
+      trade
+      --logfile /freqtrade/user_data/logs/freqtrade-copy.log
+      --db-url sqlite:////freqtrade/user_data/tradesv3-copy.sqlite
+      --config /freqtrade/user_data/config_copytrade.json
+      --strategy CopyTradeStrategy

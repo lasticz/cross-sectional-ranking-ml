@@ -1,0 +1,9 @@
+[Unit]
+Description=Generate daily report at 09:00
+
+[Timer]
+OnCalendar=*-*-* 09:00:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

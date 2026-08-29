@@ -1,0 +1,128 @@
+{
+  "strategy": "funding",
+  "segments": [
+    {
+      "window": "2023-01",
+      "param": "-0.0005",
+      "fallback": false,
+      "profit": 131.99,
+      "trades": 22,
+      "ok": true
+    },
+    {
+      "window": "2023-04",
+      "param": "-0.0005",
+      "fallback": false,
+      "profit": -1.49,
+      "trades": 35,
+      "ok": true
+    },
+    {
+      "window": "2023-07",
+      "param": "-0.0005",
+      "fallback": false,
+      "profit": -21.12,
+      "trades": 27,
+      "ok": true
+    },
+    {
+      "window": "2023-10",
+      "param": "-0.0005",
+      "fallback": false,
+      "profit": 37.01,
+      "trades": 13,
+      "ok": true
+    },
+    {
+      "window": "2024-01",
+      "param": "-0.0005",
+      "fallback": false,
+      "profit": 13.61,
+      "trades": 12,
+      "ok": true
+    },
+    {
+      "window": "2024-04",
+      "param": "-0.0003",
+      "fallback": false,
+      "profit": -6.03,
+      "trades": 28,
+      "ok": true
+    },
+    {
+      "window": "2024-07",
+      "param": "-0.0003",
+      "fallback": false,
+      "profit": 8.87,
+      "trades": 57,
+      "ok": true
+    },
+    {
+      "window": "2024-10",
+      "param": "-0.0003",
+      "fallback": false,
+      "profit": 21.01,
+      "trades": 26,
+      "ok": true
+    },
+    {
+      "window": "2025-01",
+      "param": "-0.0003",
+      "fallback": false,
+      "profit": -10.27,
+      "trades": 45,
+      "ok": true
+    },
+    {
+      "window": "2025-04",
+      "param": "-0.0003",
+      "fallback": false,
+      "profit": 26.88,
+      "trades": 48,
+      "ok": true
+    },
+    {
+      "window": "2025-07",
+      "param": "-0.0005",
+      "fallback": false,
+      "profit": 1.0,
+      "trades": 6,
+      "ok": true
+    },
+    {
+      "window": "2025-10",
+      "param": "-0.0003",
+      "fallback": false,
+      "profit": -45.25,
+      "trades": 72,
+      "ok": true
+    },
+    {
+      "window": "2026-01",
+      "param": "-0.0005",
+      "fallback": false,
+      "profit": -27.0,
+      "trades": 40,
+      "ok": true
+    },
+    {
+      "window": "2026-04",
+      "param": "-0.001",
+      "fallback": false,
+      "profit": -7.76,
+      "trades": 9,
+      "ok": true
+    },
+    {
+      "window": "2026-07",
+      "param": "-0.001",
+      "fallback": false,
+      "profit": null,
+      "trades": 0,
+      "ok": false
+    }
+  ],
+  "oos_total_pct": 47.26,
+  "win_segments": 7,
+  "total_segments": 15
+}

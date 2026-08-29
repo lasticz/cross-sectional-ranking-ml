@@ -1,0 +1,7 @@
+[Unit]
+Description=Proxy health watchdog (check every minute)
+
+[Service]
+Type=oneshot
+User=cc
+ExecStart=/home/cc/quant_8.25/ops/proxy_watchdog.sh

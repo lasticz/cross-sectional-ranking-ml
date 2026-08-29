@@ -1,0 +1,12 @@
+[Unit]
+Description=Daily smart-money wallet list refresh
+After=network-online.target mihomo.service
+
+[Service]
+Type=oneshot
+User=cc
+WorkingDirectory=/home/cc/quant_8.25/onchain
+ExecStart=/usr/bin/python3 /home/cc/quant_8.25/onchain/refresh_wallets.py --days 5 --top 10 --proxy http://127.0.0.1:7890
+ExecStartPost=/bin/sh -c 'sleep 30 && systemctl restart wallet-monitor'
+StandardOutput=append:/home/cc/quant_8.25/onchain/refresh.log
+StandardError=append:/home/cc/quant_8.25/onchain/refresh.log

@@ -1,0 +1,11 @@
+[Unit]
+Description=Cross-exchange funding rate scanner
+After=network-online.target mihomo.service
+
+[Service]
+Type=oneshot
+User=cc
+WorkingDirectory=/home/cc/quant_8.25/crossex
+ExecStart=/usr/bin/python3 /home/cc/quant_8.25/crossex/funding_scanner.py
+StandardOutput=append:/home/cc/quant_8.25/crossex/scanner.log
+StandardError=append:/home/cc/quant_8.25/crossex/scanner.log

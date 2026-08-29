@@ -1,0 +1,11 @@
+[Unit]
+Description=Paper copytrade of smart-money signals
+After=network-online.target mihomo.service wallet-monitor.service
+
+[Service]
+Type=oneshot
+User=cc
+WorkingDirectory=/home/cc/quant_8.25/onchain
+ExecStart=/usr/bin/python3 /home/cc/quant_8.25/onchain/paper_copytrade.py
+StandardOutput=append:/home/cc/quant_8.25/onchain/copytrade.log
+StandardError=append:/home/cc/quant_8.25/onchain/copytrade.log

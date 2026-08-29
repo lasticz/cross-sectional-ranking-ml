@@ -1,0 +1,17 @@
+[Unit]
+Description=Onchain smart-money wallet monitor
+After=network-online.target mihomo.service
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=cc
+WorkingDirectory=/home/cc/quant_8.25/onchain
+ExecStart=/usr/bin/python3 /home/cc/quant_8.25/onchain/wallet_monitor.py --interval 180 --proxy http://127.0.0.1:7890
+Restart=always
+RestartSec=30
+StandardOutput=append:/home/cc/quant_8.25/onchain/monitor.log
+StandardError=append:/home/cc/quant_8.25/onchain/monitor.log
+
+[Install]
+WantedBy=multi-user.target

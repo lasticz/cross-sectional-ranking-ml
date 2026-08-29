@@ -1,0 +1,702 @@
+[
+ {
+  "wallet": "0x51c72848c68a965f66fa7a88855f9f7784502a7f",
+  "buy_eth": 194.365,
+  "sell_eth": 238.87,
+  "pnl_eth_approx": 44.504,
+  "net_token_raw": -29445240928285445628249505792
+ },
+ {
+  "wallet": "0xbdb3ba9ffe392549e1f8658dd2630c141fdf47b6",
+  "buy_eth": 83.85,
+  "sell_eth": 108.745,
+  "pnl_eth_approx": 24.894,
+  "net_token_raw": -16042955231650130176900071424
+ },
+ {
+  "wallet": "0xeff6cb8b614999d130e537751ee99724d01aa167",
+  "buy_eth": 2.962,
+  "sell_eth": 26.85,
+  "pnl_eth_approx": 23.888,
+  "net_token_raw": -15069533736769470020955668480
+ },
+ {
+  "wallet": "0x22e9f83fa25bfa7912015d1480f24b3d96958622",
+  "buy_eth": 0.0,
+  "sell_eth": 2.091,
+  "pnl_eth_approx": 2.091,
+  "net_token_raw": -1288063875912708652569460736
+ },
+ {
+  "wallet": "0xfbeedcfe378866dab6abbafd8b2986f5c1768737",
+  "buy_eth": 0.0,
+  "sell_eth": 1.692,
+  "pnl_eth_approx": 1.692,
+  "net_token_raw": -1112598715352193855647645696
+ },
+ {
+  "wallet": "0x28bf6006d87de7f44445905aa4f5cb8c0d8cba02",
+  "buy_eth": 0.256,
+  "sell_eth": 1.839,
+  "pnl_eth_approx": 1.583,
+  "net_token_raw": -1132697837311518851297443840
+ },
+ {
+  "wallet": "0xa21fea456eb297f9f9bcdd677a6592203fb89133",
+  "buy_eth": 0.0,
+  "sell_eth": 1.391,
+  "pnl_eth_approx": 1.391,
+  "net_token_raw": -813156341494060696918294528
+ },
+ {
+  "wallet": "0x092f275db671c77f5532cff1fa01c15965f50bff",
+  "buy_eth": 0.0,
+  "sell_eth": 1.209,
+  "pnl_eth_approx": 1.209,
+  "net_token_raw": -765906556764765520796844032
+ },
+ {
+  "wallet": "0x264a70ef399cde84720d91fdb1c2f2330ff4e914",
+  "buy_eth": 0.492,
+  "sell_eth": 1.665,
+  "pnl_eth_approx": 1.173,
+  "net_token_raw": -772790991287495990399991808
+ },
+ {
+  "wallet": "0xa40817e1a11d29c982bd4d34803ba0b6fba0753d",
+  "buy_eth": 0.0,
+  "sell_eth": 0.903,
+  "pnl_eth_approx": 0.903,
+  "net_token_raw": -642891852504306655959187456
+ },
+ {
+  "wallet": "0x9239ea101cd3fd6c99f39950f8b401ff51e0bdf0",
+  "buy_eth": 0.0,
+  "sell_eth": 0.774,
+  "pnl_eth_approx": 0.774,
+  "net_token_raw": -500000000000000006643777536
+ },
+ {
+  "wallet": "0x9008d19f58aabd9ed0d60971565aa8510560ab41",
+  "buy_eth": 7.696,
+  "sell_eth": 0.681,
+  "pnl_eth_approx": 0.747,
+  "net_token_raw": 4885761919958046185839656960
+ },
+ {
+  "wallet": "0x28b1dc1a5e3699a428bc51d234dfab7c9cb2a183",
+  "buy_eth": 0.237,
+  "sell_eth": 0.97,
+  "pnl_eth_approx": 0.733,
+  "net_token_raw": -526076011037599487651479552
+ },
+ {
+  "wallet": "0x20d05379625b4ed5f91eb8153bb4cf244a2ffc49",
+  "buy_eth": 0.0,
+  "sell_eth": 0.722,
+  "pnl_eth_approx": 0.722,
+  "net_token_raw": -500232093223949679324037120
+ },
+ {
+  "wallet": "0xa43fe16908251ee70ef74718545e4fe6c5ccec9f",
+  "buy_eth": 0.0,
+  "sell_eth": 0.707,
+  "pnl_eth_approx": 0.707,
+  "net_token_raw": -418806092930470872048730112
+ },
+ {
+  "wallet": "0x74de5d4fcbf63e00296fd95d33236b9794016631",
+  "buy_eth": 0.012,
+  "sell_eth": 0.716,
+  "pnl_eth_approx": 0.704,
+  "net_token_raw": -462929756863546331699871744
+ },
+ {
+  "wallet": "0x816a4e92f2fed45d489c623ad58b20eeea433d49",
+  "buy_eth": 0.0,
+  "sell_eth": 0.404,
+  "pnl_eth_approx": 0.404,
+  "net_token_raw": -251532735745124439743791104
+ },
+ {
+  "wallet": "0xc8126e96cbfd4d1dc8e342a9c108890b622dc0e4",
+  "buy_eth": 0.0,
+  "sell_eth": 0.402,
+  "pnl_eth_approx": 0.402,
+  "net_token_raw": -275929143151034572212273152
+ },
+ {
+  "wallet": "0x94941cf6f81251d97d86982d963ca8f4739cd691",
+  "buy_eth": 0.0,
+  "sell_eth": 0.398,
+  "pnl_eth_approx": 0.398,
+  "net_token_raw": -277639394159194176049119232
+ },
+ {
+  "wallet": "0x7833341fff5bbbac5a0bd0ca28d6d9fa7d094601",
+  "buy_eth": 0.0,
+  "sell_eth": 0.336,
+  "pnl_eth_approx": 0.336,
+  "net_token_raw": -206611776870708492309102592
+ },
+ {
+  "wallet": "0xb300000b72deaeb607a12d5f54773d1c19c7028d",
+  "buy_eth": 0.0,
+  "sell_eth": 0.327,
+  "pnl_eth_approx": 0.327,
+  "net_token_raw": -206788177676615062220963840
+ },
+ {
+  "wallet": "0x70d568b7241878d1570376b70957290a884ff53e",
+  "buy_eth": 0.0,
+  "sell_eth": 0.324,
+  "pnl_eth_approx": 0.324,
+  "net_token_raw": -209557898574953910273835008
+ },
+ {
+  "wallet": "0x045d21b97747686c4b4f8d70e6feeadcb3f6d345",
+  "buy_eth": 0.012,
+  "sell_eth": 0.311,
+  "pnl_eth_approx": 0.299,
+  "net_token_raw": -188103226662247327068061696
+ },
+ {
+  "wallet": "0x58faccbb9262d7e002c0d18813fb37254d95e3c1",
+  "buy_eth": 0.0,
+  "sell_eth": 0.272,
+  "pnl_eth_approx": 0.272,
+  "net_token_raw": -172995322096698985356984320
+ },
+ {
+  "wallet": "0x93f76d1be08fca32ae1d07513467e351c4b2a65a",
+  "buy_eth": 0.0,
+  "sell_eth": 0.271,
+  "pnl_eth_approx": 0.271,
+  "net_token_raw": -178748454207201852635742208
+ },
+ {
+  "wallet": "0x1c568b18c815e4c8b1e3ca48f26a1d4ab7aa0eb1",
+  "buy_eth": 0.0,
+  "sell_eth": 0.265,
+  "pnl_eth_approx": 0.265,
+  "net_token_raw": -182676087111891705380470784
+ },
+ {
+  "wallet": "0xe811ee36cb359338fb0820a1662e7027c33d959a",
+  "buy_eth": 0.0,
+  "sell_eth": 0.257,
+  "pnl_eth_approx": 0.257,
+  "net_token_raw": -190868563376315287224713216
+ },
+ {
+  "wallet": "0xe60691095282d9284268a1125c4681a1f593225b",
+  "buy_eth": 0.0,
+  "sell_eth": 0.235,
+  "pnl_eth_approx": 0.235,
+  "net_token_raw": -158855665572632039255965696
+ },
+ {
+  "wallet": "0xd9f449ebd2e67144e311ca161e61af4ff8a67759",
+  "buy_eth": 0.0,
+  "sell_eth": 0.231,
+  "pnl_eth_approx": 0.231,
+  "net_token_raw": -149019425819388023335288832
+ },
+ {
+  "wallet": "0xf8d2b0f4698af233d4e85ecd536bcefbfe714045",
+  "buy_eth": 0.0,
+  "sell_eth": 0.225,
+  "pnl_eth_approx": 0.225,
+  "net_token_raw": -161246852276623693985087488
+ },
+ {
+  "wallet": "0x6a4c5ccc0784e6dadd570b5b74344326b73d02ba",
+  "buy_eth": 0.0,
+  "sell_eth": 0.225,
+  "pnl_eth_approx": 0.225,
+  "net_token_raw": -162033897626609447145046016
+ },
+ {
+  "wallet": "0xbf6acd523318af24764be44ab5b99381ac9053da",
+  "buy_eth": 0.0,
+  "sell_eth": 0.221,
+  "pnl_eth_approx": 0.221,
+  "net_token_raw": -138697417888878135489855488
+ },
+ {
+  "wallet": "0xb315ab8ca13a11958991fdafb1e17d23d31381cc",
+  "buy_eth": 0.0,
+  "sell_eth": 0.217,
+  "pnl_eth_approx": 0.217,
+  "net_token_raw": -139852270825457745154539520
+ },
+ {
+  "wallet": "0xb2c292580fd04beb393708b50971c95b69e27118",
+  "buy_eth": 0.0,
+  "sell_eth": 0.215,
+  "pnl_eth_approx": 0.215,
+  "net_token_raw": -155972149725354099285688320
+ },
+ {
+  "wallet": "0x3ed60a4df1294893d9a264a657937ccbfc2c1df1",
+  "buy_eth": 0.0,
+  "sell_eth": 0.213,
+  "pnl_eth_approx": 0.213,
+  "net_token_raw": -155491644333683209479913472
+ },
+ {
+  "wallet": "0xebe0fa42523f69ea1e97f5b08282654c19c2c0ee",
+  "buy_eth": 0.003,
+  "sell_eth": 0.215,
+  "pnl_eth_approx": 0.213,
+  "net_token_raw": -132709162982714233401114624
+ },
+ {
+  "wallet": "0x99aec82d12b6964011d882deab68e43dac23b3d1",
+  "buy_eth": 0.0,
+  "sell_eth": 0.211,
+  "pnl_eth_approx": 0.211,
+  "net_token_raw": -147610486205319057432903680
+ },
+ {
+  "wallet": "0xdf4948b26af8ff0e6f42218929b3e3829bf73718",
+  "buy_eth": 0.0,
+  "sell_eth": 0.21,
+  "pnl_eth_approx": 0.21,
+  "net_token_raw": -136788317861086082906456064
+ },
+ {
+  "wallet": "0xaf19ce624cb275f04088adaaad5e14037312dc1e",
+  "buy_eth": 0.0,
+  "sell_eth": 0.201,
+  "pnl_eth_approx": 0.201,
+  "net_token_raw": -128041539704026973585014784
+ },
+ {
+  "wallet": "0xd334de4707ef1e58a4ad7ba2737c2138f494264c",
+  "buy_eth": 0.0,
+  "sell_eth": 0.197,
+  "pnl_eth_approx": 0.197,
+  "net_token_raw": -129325474407658686236327936
+ },
+ {
+  "wallet": "0x82a365858b4a82eed80e5473c6f698f93b48617f",
+  "buy_eth": 0.0,
+  "sell_eth": 0.192,
+  "pnl_eth_approx": 0.192,
+  "net_token_raw": -111501001671411565076676608
+ },
+ {
+  "wallet": "0x06cef69e7df2de1bb8bc4cf416142f1ea6494829",
+  "buy_eth": 0.058,
+  "sell_eth": 0.246,
+  "pnl_eth_approx": 0.188,
+  "net_token_raw": -126567443543505073164255232
+ },
+ {
+  "wallet": "0x43dfc508a7040eaffdc7668aacff562003b04711",
+  "buy_eth": 0.0,
+  "sell_eth": 0.184,
+  "pnl_eth_approx": 0.184,
+  "net_token_raw": -111095055963286623676792832
+ },
+ {
+  "wallet": "0xe298acfd15fc504817112d9a46f596915ca0f0c3",
+  "buy_eth": 0.0,
+  "sell_eth": 0.182,
+  "pnl_eth_approx": 0.182,
+  "net_token_raw": -111852446920036234406395904
+ },
+ {
+  "wallet": "0x7d863eb6405884dd06dbd31a99e4fd4c69ae390d",
+  "buy_eth": 0.0,
+  "sell_eth": 0.182,
+  "pnl_eth_approx": 0.182,
+  "net_token_raw": -109801257357656073638510592
+ },
+ {
+  "wallet": "0xbd39c3cd4388f65dcae2b4dc1f08cb51e382a3ce",
+  "buy_eth": 0.0,
+  "sell_eth": 0.171,
+  "pnl_eth_approx": 0.171,
+  "net_token_raw": -116359595404672943041544192
+ },
+ {
+  "wallet": "0x0f7ae28de1c8532170ad4ee566b5801485c13a0e",
+  "buy_eth": 0.0,
+  "sell_eth": 0.162,
+  "pnl_eth_approx": 0.162,
+  "net_token_raw": -114371418700215688091402240
+ },
+ {
+  "wallet": "0xbee3211ab312a8d065c4fef0247448e17a8da000",
+  "buy_eth": 0.0,
+  "sell_eth": 0.147,
+  "pnl_eth_approx": 0.147,
+  "net_token_raw": -88178460148565405908074496
+ },
+ {
+  "wallet": "0x0a8accba63f42e743a31f33c44b87be0c83fe230",
+  "buy_eth": 0.0,
+  "sell_eth": 0.146,
+  "pnl_eth_approx": 0.146,
+  "net_token_raw": -92813687509895355958296576
+ },
+ {
+  "wallet": "0xced9b8fdfb71edec5f55a72a7515496f195b7d55",
+  "buy_eth": 0.0,
+  "sell_eth": 0.141,
+  "pnl_eth_approx": 0.141,
+  "net_token_raw": -101516025660835073041104896
+ },
+ {
+  "wallet": "0xf25aac3ccf32794d7ca6d92f11adb27aac2e5928",
+  "buy_eth": 0.0,
+  "sell_eth": 0.137,
+  "pnl_eth_approx": 0.137,
+  "net_token_raw": -89822967868761438469226496
+ },
+ {
+  "wallet": "0x7548c97dd5fa04d3bf26449fd8c1764a6ae3096a",
+  "buy_eth": 0.0,
+  "sell_eth": 0.135,
+  "pnl_eth_approx": 0.135,
+  "net_token_raw": -81755330099999992897863680
+ },
+ {
+  "wallet": "0x8bcd3deaae033d193b1074a1c8f00895f40f59d3",
+  "buy_eth": 0.0,
+  "sell_eth": 0.134,
+  "pnl_eth_approx": 0.134,
+  "net_token_raw": -84149328359754767729164288
+ },
+ {
+  "wallet": "0x32fa09cc2d3f3e0a1a2418c40b1761e1361e98d8",
+  "buy_eth": 0.0,
+  "sell_eth": 0.129,
+  "pnl_eth_approx": 0.129,
+  "net_token_raw": -82439213335142411513364480
+ },
+ {
+  "wallet": "0xb92fe925dc43a0ecde6c8b1a2709c170ec4fff4f",
+  "buy_eth": 0.0,
+  "sell_eth": 0.125,
+  "pnl_eth_approx": 0.125,
+  "net_token_raw": -78150699338487637234155520
+ },
+ {
+  "wallet": "0x3db398f3fe8ecb4be85c69d708929ebe9c9a44b2",
+  "buy_eth": 0.0,
+  "sell_eth": 0.123,
+  "pnl_eth_approx": 0.123,
+  "net_token_raw": -76767620604888104883453952
+ },
+ {
+  "wallet": "0x6521a048baf668e790506b4c2d69639694ba42a6",
+  "buy_eth": 0.0,
+  "sell_eth": 0.122,
+  "pnl_eth_approx": 0.122,
+  "net_token_raw": -87924000254049096887697408
+ },
+ {
+  "wallet": "0x85c85c415ebc34755133bf30b0e6f18f85b58671",
+  "buy_eth": 0.0,
+  "sell_eth": 0.12,
+  "pnl_eth_approx": 0.12,
+  "net_token_raw": -83064473434738723716595712
+ },
+ {
+  "wallet": "0xe088cc38e062648ab9f0ce1c0d6eb4b619a1153f",
+  "buy_eth": 0.0,
+  "sell_eth": 0.119,
+  "pnl_eth_approx": 0.119,
+  "net_token_raw": -74296657453353896213741568
+ },
+ {
+  "wallet": "0xdbce2583cda78edd5a18495f11abea12fedc0c51",
+  "buy_eth": 0.0,
+  "sell_eth": 0.119,
+  "pnl_eth_approx": 0.119,
+  "net_token_raw": -69688434771569415014055936
+ },
+ {
+  "wallet": "0xedd5c22bf56f0fa245d004cc83ce2a7081966664",
+  "buy_eth": 0.0,
+  "sell_eth": 0.119,
+  "pnl_eth_approx": 0.119,
+  "net_token_raw": -76749999999999991330373632
+ },
+ {
+  "wallet": "0x4865d09bcffdda510123e00a26d7bfb209fc8c17",
+  "buy_eth": 0.0,
+  "sell_eth": 0.118,
+  "pnl_eth_approx": 0.118,
+  "net_token_raw": -76717993205084513951023104
+ },
+ {
+  "wallet": "0xa06db742e80fbc1fbf37302a7dc8d6a415bfbfc2",
+  "buy_eth": 0.0,
+  "sell_eth": 0.116,
+  "pnl_eth_approx": 0.116,
+  "net_token_raw": -73478835068819096037490688
+ },
+ {
+  "wallet": "0x157b29dd7d1882ae4842997fe5ef6742fdfa9e8d",
+  "buy_eth": 0.0,
+  "sell_eth": 0.113,
+  "pnl_eth_approx": 0.113,
+  "net_token_raw": -71550303151524526048673792
+ },
+ {
+  "wallet": "0x5f9e2818d1ca2fbc2c0cd578a50fe34eec9ef29a",
+  "buy_eth": 0.0,
+  "sell_eth": 0.112,
+  "pnl_eth_approx": 0.112,
+  "net_token_raw": -66581219615922662884245504
+ },
+ {
+  "wallet": "0x0889e9327b98d7d1be3c301a4585ff3330502c9a",
+  "buy_eth": 6.65,
+  "sell_eth": 1.683,
+  "pnl_eth_approx": 0.109,
+  "net_token_raw": 3195160492021082958510161920
+ },
+ {
+  "wallet": "0xe1ed95e01122768fbc41f96c52274295b8655f5a",
+  "buy_eth": 0.0,
+  "sell_eth": 0.108,
+  "pnl_eth_approx": 0.108,
+  "net_token_raw": -65532352777949837160087552
+ },
+ {
+  "wallet": "0xfac8d5827ababb65d022a781636b6f7ba98a77ce",
+  "buy_eth": 0.0,
+  "sell_eth": 0.107,
+  "pnl_eth_approx": 0.107,
+  "net_token_raw": -67055327716126333723475968
+ },
+ {
+  "wallet": "0x343926e254b10ec9178cff65c570e5d5749fb389",
+  "buy_eth": 0.0,
+  "sell_eth": 0.106,
+  "pnl_eth_approx": 0.106,
+  "net_token_raw": -75037523044796644970201088
+ },
+ {
+  "wallet": "0xd3183adf8505b2aec9fe364e63cf84ac40a212a8",
+  "buy_eth": 0.0,
+  "sell_eth": 0.106,
+  "pnl_eth_approx": 0.106,
+  "net_token_raw": -66809405734457498641891328
+ },
+ {
+  "wallet": "0x09ad820aac5779683b481c4674208a4e1b024afa",
+  "buy_eth": 0.0,
+  "sell_eth": 0.105,
+  "pnl_eth_approx": 0.105,
+  "net_token_raw": -68275049628105724194193408
+ },
+ {
+  "wallet": "0x4b31042f9639639d49bd491a773f931b9740ee35",
+  "buy_eth": 0.0,
+  "sell_eth": 0.103,
+  "pnl_eth_approx": 0.103,
+  "net_token_raw": -63668743824386303406899200
+ },
+ {
+  "wallet": "0xe5ed3d7385275af0e171e6d31f858cf403bec660",
+  "buy_eth": 0.0,
+  "sell_eth": 0.102,
+  "pnl_eth_approx": 0.102,
+  "net_token_raw": -62482060030006894731984896
+ },
+ {
+  "wallet": "0x20b35ee7e5fb6deb961021c0bc2723668a376f92",
+  "buy_eth": 0.0,
+  "sell_eth": 0.101,
+  "pnl_eth_approx": 0.101,
+  "net_token_raw": -74900576805206742651633664
+ },
+ {
+  "wallet": "0x3192fead85c8eb54f7732c4e088f5415824ac151",
+  "buy_eth": 0.0,
+  "sell_eth": 0.1,
+  "pnl_eth_approx": 0.1,
+  "net_token_raw": -72956604306100061820944384
+ },
+ {
+  "wallet": "0x2754d43326932c4eaf669d78ba8231d789d9ac49",
+  "buy_eth": 0.0,
+  "sell_eth": 0.1,
+  "pnl_eth_approx": 0.1,
+  "net_token_raw": -71929112082948403723501568
+ },
+ {
+  "wallet": "0x111116053f09d34a7eae8102887004445176ca11",
+  "buy_eth": 2.582,
+  "sell_eth": 0.88,
+  "pnl_eth_approx": 0.1,
+  "net_token_raw": 1134464864714134075136278528
+ },
+ {
+  "wallet": "0x57657eaba9eb8250bbceb3d5c0982ef502e727f4",
+  "buy_eth": 0.0,
+  "sell_eth": 0.1,
+  "pnl_eth_approx": 0.1,
+  "net_token_raw": -58397500000000001485832192
+ },
+ {
+  "wallet": "0x1bd9f19715ef2bf65d51ec754866da71caa49557",
+  "buy_eth": 0.0,
+  "sell_eth": 0.098,
+  "pnl_eth_approx": 0.098,
+  "net_token_raw": -64446931298790627604430848
+ },
+ {
+  "wallet": "0x5de2baf58e58c1e4f4d2653bc45d4c74d30525c8",
+  "buy_eth": 0.0,
+  "sell_eth": 0.098,
+  "pnl_eth_approx": 0.098,
+  "net_token_raw": -66019435956838069249769472
+ },
+ {
+  "wallet": "0xe9c8ecf45cff3ba04d7c39cf568f2ac5c6a185d2",
+  "buy_eth": 0.0,
+  "sell_eth": 0.097,
+  "pnl_eth_approx": 0.097,
+  "net_token_raw": -64106334318882600725250048
+ },
+ {
+  "wallet": "0x18148a7120f3febe6a14865eb938d4aaae4c5135",
+  "buy_eth": 0.0,
+  "sell_eth": 0.097,
+  "pnl_eth_approx": 0.097,
+  "net_token_raw": -60000000000000001140850688
+ },
+ {
+  "wallet": "0x4e2870fbd1ed01a7cd1aca1915cbb7f09ee9d231",
+  "buy_eth": 0.0,
+  "sell_eth": 0.093,
+  "pnl_eth_approx": 0.093,
+  "net_token_raw": -60768236193059639281057792
+ },
+ {
+  "wallet": "0xfd9991fe6215daf99c83814a438a0c1e7785d1ce",
+  "buy_eth": 0.0,
+  "sell_eth": 0.093,
+  "pnl_eth_approx": 0.093,
+  "net_token_raw": -54733774458749088306298880
+ },
+ {
+  "wallet": "0x49e438466c71ca16123f6492bfff5cc7f19dd7a4",
+  "buy_eth": 0.0,
+  "sell_eth": 0.092,
+  "pnl_eth_approx": 0.092,
+  "net_token_raw": -56694198661945899276566528
+ },
+ {
+  "wallet": "0xed0b7a10c627b8720a5af35553730b4573cba2fa",
+  "buy_eth": 0.0,
+  "sell_eth": 0.09,
+  "pnl_eth_approx": 0.09,
+  "net_token_raw": -65751702537193476985978880
+ },
+ {
+  "wallet": "0x649ccf79a2b28c7b30199df32c434d8d870b1e74",
+  "buy_eth": 0.0,
+  "sell_eth": 0.086,
+  "pnl_eth_approx": 0.086,
+  "net_token_raw": -59726657497864439716642816
+ },
+ {
+  "wallet": "0x297f6ff642cc0af09ce1bd2045932c4cb55761a1",
+  "buy_eth": 0.0,
+  "sell_eth": 0.086,
+  "pnl_eth_approx": 0.086,
+  "net_token_raw": -51469771071493540004495360
+ },
+ {
+  "wallet": "0x012a43518fd6416e445e085b3ee169767026eebc",
+  "buy_eth": 0.0,
+  "sell_eth": 0.085,
+  "pnl_eth_approx": 0.085,
+  "net_token_raw": -56088709140783262657937408
+ },
+ {
+  "wallet": "0xe1fc82f340cae0d70ee7fb67b27c7c34217098f4",
+  "buy_eth": 0.0,
+  "sell_eth": 0.082,
+  "pnl_eth_approx": 0.082,
+  "net_token_raw": -54117455003560797534158848
+ },
+ {
+  "wallet": "0xfc9332a1749b5c3416234551f6280e0460f8f406",
+  "buy_eth": 0.0,
+  "sell_eth": 0.082,
+  "pnl_eth_approx": 0.082,
+  "net_token_raw": -55238832039225504322027520
+ },
+ {
+  "wallet": "0x0b7fc5b67b550bf69f0314aa93d89eb145fc7edd",
+  "buy_eth": 0.0,
+  "sell_eth": 0.08,
+  "pnl_eth_approx": 0.08,
+  "net_token_raw": -46956925241974359523852288
+ },
+ {
+  "wallet": "0xbe8f4ab451939dd62b941350cbc09961d6f1fe6b",
+  "buy_eth": 0.0,
+  "sell_eth": 0.08,
+  "pnl_eth_approx": 0.08,
+  "net_token_raw": -49262569698548896900317184
+ },
+ {
+  "wallet": "0x4711a9061e3da8a1503fdf080f5dc9eb22758f75",
+  "buy_eth": 0.0,
+  "sell_eth": 0.079,
+  "pnl_eth_approx": 0.079,
+  "net_token_raw": -57764987898933306638467072
+ },
+ {
+  "wallet": "0x02823e943bb6c09d33633c09103e208b082a7637",
+  "buy_eth": 0.0,
+  "sell_eth": 0.079,
+  "pnl_eth_approx": 0.079,
+  "net_token_raw": -58585756105115018714939392
+ },
+ {
+  "wallet": "0x21eae1d0441e369ac54687955f1b2ca7df928d02",
+  "buy_eth": 0.0,
+  "sell_eth": 0.079,
+  "pnl_eth_approx": 0.079,
+  "net_token_raw": -58444494945328161888403456
+ },
+ {
+  "wallet": "0x7837f92fbe0b3535ee3771ebd861e615d283e223",
+  "buy_eth": 0.0,
+  "sell_eth": 0.079,
+  "pnl_eth_approx": 0.079,
+  "net_token_raw": -55006294607406373728681984
+ },
+ {
+  "wallet": "0x7a98c125a722cbdc61f53c18806d880d7e5f6641",
+  "buy_eth": 0.0,
+  "sell_eth": 0.079,
+  "pnl_eth_approx": 0.079,
+  "net_token_raw": -48674704305670869785509888
+ },
+ {
+  "wallet": "0x0c28016d558a54bfaaba083b06448c3efae30d82",
+  "buy_eth": 0.0,
+  "sell_eth": 0.078,
+  "pnl_eth_approx": 0.078,
+  "net_token_raw": -49482480130442233412321280
+ },
+ {
+  "wallet": "0xe10eb3848e7d88302e863d5989da2a50e7cb63b3",
+  "buy_eth": 0.0,
+  "sell_eth": 0.078,
+  "pnl_eth_approx": 0.078,
+  "net_token_raw": -50259126911406035747995648
+ }
+]

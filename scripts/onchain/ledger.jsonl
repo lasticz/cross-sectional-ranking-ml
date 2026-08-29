@@ -1,0 +1,14 @@
+{"ts": "2026-08-27T15:17:31.318211+00:00", "block": 25847360, "wallet": "0xbdb3ba9ffe392549e1f8658dd2630c141fdf47b6", "token": "PEPE", "side": "sell", "eth": 0.0732, "token_amt_raw": 46423563330250064518971392}
+{"ts": "2026-08-27T15:17:44.838769+00:00", "block": 25847127, "wallet": "0xbdb3ba9ffe392549e1f8658dd2630c141fdf47b6", "token": "SPX", "side": "buy", "eth": 0.2597, "token_amt_raw": 105360637987}
+{"ts": "2026-08-27T15:17:44.838769+00:00", "block": 25847128, "wallet": "0x51c72848c68a965f66fa7a88855f9f7784502a7f", "token": "SPX", "side": "buy", "eth": 0.1351, "token_amt_raw": 54904064244}
+{"ts": "2026-08-27T15:17:44.839763+00:00", "block": 25847137, "wallet": "0xbdb3ba9ffe392549e1f8658dd2630c141fdf47b6", "token": "SPX", "side": "buy", "eth": 0.1089, "token_amt_raw": 44352871998}
+{"ts": "2026-08-27T15:17:44.840765+00:00", "block": 25847144, "wallet": "0x51c72848c68a965f66fa7a88855f9f7784502a7f", "token": "SPX", "side": "buy", "eth": 0.1578, "token_amt_raw": 64347982273}
+{"ts": "2026-08-27T15:17:44.840765+00:00", "block": 25847159, "wallet": "0x51c72848c68a965f66fa7a88855f9f7784502a7f", "token": "SPX", "side": "buy", "eth": 0.2171, "token_amt_raw": 88817353354}
+{"ts": "2026-08-27T15:17:44.841763+00:00", "block": 25847167, "wallet": "0xbdb3ba9ffe392549e1f8658dd2630c141fdf47b6", "token": "SPX", "side": "buy", "eth": 0.1321, "token_amt_raw": 54149993611}
+{"ts": "2026-08-27T15:17:44.841763+00:00", "block": 25847196, "wallet": "0x51c72848c68a965f66fa7a88855f9f7784502a7f", "token": "SPX", "side": "sell", "eth": 0.0859, "token_amt_raw": 34992060064}
+{"ts": "2026-08-27T15:17:44.842765+00:00", "block": 25847199, "wallet": "0x51c72848c68a965f66fa7a88855f9f7784502a7f", "token": "SPX", "side": "sell", "eth": 0.2316, "token_amt_raw": 94233397844}
+{"ts": "2026-08-27T15:17:44.842765+00:00", "block": 25847210, "wallet": "0x51c72848c68a965f66fa7a88855f9f7784502a7f", "token": "SPX", "side": "sell", "eth": 0.1878, "token_amt_raw": 76005189519}
+{"ts": "2026-08-27T15:17:44.842765+00:00", "block": 25847268, "wallet": "0x51c72848c68a965f66fa7a88855f9f7784502a7f", "token": "SPX", "side": "buy", "eth": 0.1279, "token_amt_raw": 51916531553}
+{"ts": "2026-08-27T15:17:44.843765+00:00", "block": 25847284, "wallet": "0xbdb3ba9ffe392549e1f8658dd2630c141fdf47b6", "token": "SPX", "side": "buy", "eth": 0.0904, "token_amt_raw": 36743737287}
+{"ts": "2026-08-27T15:17:44.843765+00:00", "block": 25847394, "wallet": "0x51c72848c68a965f66fa7a88855f9f7784502a7f", "token": "SPX", "side": "buy", "eth": 0.1762, "token_amt_raw": 71741864044}
+{"ts": "2026-08-27T15:17:44.844764+00:00", "block": 25847403, "wallet": "0x51c72848c68a965f66fa7a88855f9f7784502a7f", "token": "SPX", "side": "buy", "eth": 0.1429, "token_amt_raw": 58272529913}

@@ -1,0 +1,128 @@
+{
+  "strategy": "rotation",
+  "segments": [
+    {
+      "window": "2023-01",
+      "param": "3",
+      "fallback": false,
+      "profit": -13.17,
+      "trades": 120,
+      "ok": true
+    },
+    {
+      "window": "2023-04",
+      "param": "14",
+      "fallback": false,
+      "profit": -6.02,
+      "trades": 38,
+      "ok": true
+    },
+    {
+      "window": "2023-07",
+      "param": "3",
+      "fallback": false,
+      "profit": 9.84,
+      "trades": 123,
+      "ok": true
+    },
+    {
+      "window": "2023-10",
+      "param": "7",
+      "fallback": false,
+      "profit": 31.52,
+      "trades": 46,
+      "ok": true
+    },
+    {
+      "window": "2024-01",
+      "param": "3",
+      "fallback": false,
+      "profit": 5.47,
+      "trades": 108,
+      "ok": true
+    },
+    {
+      "window": "2024-04",
+      "param": "3",
+      "fallback": false,
+      "profit": -1.21,
+      "trades": 116,
+      "ok": true
+    },
+    {
+      "window": "2024-07",
+      "param": "3",
+      "fallback": false,
+      "profit": 0.9,
+      "trades": 108,
+      "ok": true
+    },
+    {
+      "window": "2024-10",
+      "param": "3",
+      "fallback": false,
+      "profit": 9.09,
+      "trades": 112,
+      "ok": true
+    },
+    {
+      "window": "2025-01",
+      "param": "10",
+      "fallback": false,
+      "profit": -18.6,
+      "trades": 54,
+      "ok": true
+    },
+    {
+      "window": "2025-04",
+      "param": "10",
+      "fallback": false,
+      "profit": -11.44,
+      "trades": 66,
+      "ok": true
+    },
+    {
+      "window": "2025-07",
+      "param": "7",
+      "fallback": false,
+      "profit": 6.11,
+      "trades": 60,
+      "ok": true
+    },
+    {
+      "window": "2025-10",
+      "param": "7",
+      "fallback": false,
+      "profit": 11.08,
+      "trades": 59,
+      "ok": true
+    },
+    {
+      "window": "2026-01",
+      "param": "14",
+      "fallback": false,
+      "profit": -7.23,
+      "trades": 47,
+      "ok": true
+    },
+    {
+      "window": "2026-04",
+      "param": "7",
+      "fallback": false,
+      "profit": -0.27,
+      "trades": 68,
+      "ok": true
+    },
+    {
+      "window": "2026-07",
+      "param": "7",
+      "fallback": false,
+      "profit": -3.08,
+      "trades": 41,
+      "ok": true
+    }
+  ],
+  "oos_total_pct": 3.01,
+  "win_segments": 7,
+  "total_segments": 15
+}

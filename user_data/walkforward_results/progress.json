@@ -1,0 +1,490 @@
+{
+  "rotation": {
+    "0": {
+      "window": "2023-01",
+      "param": "3",
+      "fallback": false,
+      "profit": -13.17,
+      "trades": 120,
+      "ok": true
+    },
+    "1": {
+      "window": "2023-04",
+      "param": "14",
+      "fallback": false,
+      "profit": -6.02,
+      "trades": 38,
+      "ok": true
+    },
+    "2": {
+      "window": "2023-07",
+      "param": "3",
+      "fallback": false,
+      "profit": 9.84,
+      "trades": 123,
+      "ok": true
+    },
+    "3": {
+      "window": "2023-10",
+      "param": "7",
+      "fallback": false,
+      "profit": 31.52,
+      "trades": 46,
+      "ok": true
+    },
+    "4": {
+      "window": "2024-01",
+      "param": "3",
+      "fallback": false,
+      "profit": 5.47,
+      "trades": 108,
+      "ok": true
+    },
+    "5": {
+      "window": "2024-04",
+      "param": "3",
+      "fallback": false,
+      "profit": -1.21,
+      "trades": 116,
+      "ok": true
+    },
+    "6": {
+      "window": "2024-07",
+      "param": "3",
+      "fallback": false,
+      "profit": 0.9,
+      "trades": 108,
+      "ok": true
+    },
+    "7": {
+      "window": "2024-10",
+      "param": "3",
+      "fallback": false,
+      "profit": 9.09,
+      "trades": 112,
+      "ok": true
+    },
+    "8": {
+      "window": "2025-01",
+      "param": "10",
+      "fallback": false,
+      "profit": -18.6,
+      "trades": 54,
+      "ok": true
+    },
+    "9": {
+      "window": "2025-04",
+      "param": "10",
+      "fallback": false,
+      "profit": -11.44,
+      "trades": 66,
+      "ok": true
+    },
+    "10": {
+      "window": "2025-07",
+      "param": "7",
+      "fallback": false,
+      "profit": 6.11,
+      "trades": 60,
+      "ok": true
+    },
+    "11": {
+      "window": "2025-10",
+      "param": "7",
+      "fallback": false,
+      "profit": 11.08,
+      "trades": 59,
+      "ok": true
+    },
+    "12": {
+      "window": "2026-01",
+      "param": "14",
+      "fallback": false,
+      "profit": -7.23,
+      "trades": 47,
+      "ok": true
+    },
+    "13": {
+      "window": "2026-04",
+      "param": "7",
+      "fallback": false,
+      "profit": -0.27,
+      "trades": 68,
+      "ok": true
+    },
+    "14": {
+      "window": "2026-07",
+      "param": "7",
+      "fallback": false,
+      "profit": -3.08,
+      "trades": 41,
+      "ok": true
+    }
+  },
+  "mr": {
+    "0": {
+      "window": "2023-01",
+      "param": "25",
+      "fallback": false,
+      "profit": 1.47,
+      "trades": 21,
+      "ok": true
+    },
+    "1": {
+      "window": "2023-04",
+      "param": "25",
+      "fallback": false,
+      "profit": 3.18,
+      "trades": 38,
+      "ok": true
+    },
+    "2": {
+      "window": "2023-07",
+      "param": "35",
+      "fallback": false,
+      "profit": 20.49,
+      "trades": 551,
+      "ok": true
+    },
+    "3": {
+      "window": "2023-10",
+      "param": "35",
+      "fallback": false,
+      "profit": 30.52,
+      "trades": 600,
+      "ok": true
+    },
+    "4": {
+      "window": "2024-01",
+      "param": "35",
+      "fallback": false,
+      "profit": -11.45,
+      "trades": 600,
+      "ok": true
+    },
+    "5": {
+      "window": "2024-04",
+      "param": "35",
+      "fallback": false,
+      "profit": -10.72,
+      "trades": 579,
+      "ok": true
+    },
+    "6": {
+      "window": "2024-07",
+      "param": "30",
+      "fallback": false,
+      "profit": 1.24,
+      "trades": 203,
+      "ok": true
+    },
+    "7": {
+      "window": "2024-10",
+      "param": "30",
+      "fallback": false,
+      "profit": 27.1,
+      "trades": 153,
+      "ok": true
+    },
+    "8": {
+      "window": "2025-01",
+      "param": "30",
+      "fallback": false,
+      "profit": -10.57,
+      "trades": 192,
+      "ok": true
+    },
+    "9": {
+      "window": "2025-04",
+      "param": "30",
+      "fallback": false,
+      "profit": 15.59,
+      "trades": 119,
+      "ok": true
+    },
+    "10": {
+      "window": "2025-07",
+      "param": "30",
+      "fallback": false,
+      "profit": 8.29,
+      "trades": 159,
+      "ok": true
+    },
+    "11": {
+      "window": "2025-10",
+      "param": "30",
+      "fallback": false,
+      "profit": -14.33,
+      "trades": 192,
+      "ok": true
+    },
+    "12": {
+      "window": "2026-01",
+      "param": "30",
+      "fallback": false,
+      "profit": 2.6,
+      "trades": 185,
+      "ok": true
+    },
+    "13": {
+      "window": "2026-04",
+      "param": "30",
+      "fallback": false,
+      "profit": null,
+      "trades": 0,
+      "ok": false
+    },
+    "14": {
+      "window": "2026-07",
+      "param": "30",
+      "fallback": false,
+      "profit": 8.77,
+      "trades": 119,
+      "ok": true
+    }
+  },
+  "funding": {
+    "0": {
+      "window": "2023-01",
+      "param": "-0.0005",
+      "fallback": false,
+      "profit": 131.99,
+      "trades": 22,
+      "ok": true
+    },
+    "1": {
+      "window": "2023-04",
+      "param": "-0.0005",
+      "fallback": false,
+      "profit": -1.49,
+      "trades": 35,
+      "ok": true
+    },
+    "2": {
+      "window": "2023-07",
+      "param": "-0.0005",
+      "fallback": false,
+      "profit": -21.12,
+      "trades": 27,
+      "ok": true
+    },
+    "3": {
+      "window": "2023-10",
+      "param": "-0.0005",
+      "fallback": false,
+      "profit": 37.01,
+      "trades": 13,
+      "ok": true
+    },
+    "4": {
+      "window": "2024-01",
+      "param": "-0.0005",
+      "fallback": false,
+      "profit": 13.61,
+      "trades": 12,
+      "ok": true
+    },
+    "5": {
+      "window": "2024-04",
+      "param": "-0.0003",
+      "fallback": false,
+      "profit": -6.03,
+      "trades": 28,
+      "ok": true
+    },
+    "6": {
+      "window": "2024-07",
+      "param": "-0.0003",
+      "fallback": false,
+      "profit": 8.87,
+      "trades": 57,
+      "ok": true
+    },
+    "7": {
+      "window": "2024-10",
+      "param": "-0.0003",
+      "fallback": false,
+      "profit": 21.01,
+      "trades": 26,
+      "ok": true
+    },
+    "8": {
+      "window": "2025-01",
+      "param": "-0.0003",
+      "fallback": false,
+      "profit": -10.27,
+      "trades": 45,
+      "ok": true
+    },
+    "9": {
+      "window": "2025-04",
+      "param": "-0.0003",
+      "fallback": false,
+      "profit": 26.88,
+      "trades": 48,
+      "ok": true
+    },
+    "10": {
+      "window": "2025-07",
+      "param": "-0.0005",
+      "fallback": false,
+      "profit": 1.0,
+      "trades": 6,
+      "ok": true
+    },
+    "11": {
+      "window": "2025-10",
+      "param": "-0.0003",
+      "fallback": false,
+      "profit": -45.25,
+      "trades": 72,
+      "ok": true
+    },
+    "12": {
+      "window": "2026-01",
+      "param": "-0.0005",
+      "fallback": false,
+      "profit": -27.0,
+      "trades": 40,
+      "ok": true
+    },
+    "13": {
+      "window": "2026-04",
+      "param": "-0.001",
+      "fallback": false,
+      "profit": -7.76,
+      "trades": 9,
+      "ok": true
+    },
+    "14": {
+      "window": "2026-07",
+      "param": "-0.001",
+      "fallback": false,
+      "profit": null,
+      "trades": 0,
+      "ok": false
+    }
+  },
+  "shock": {
+    "0": {
+      "window": "2023-01",
+      "param": "-0.005",
+      "fallback": false,
+      "profit": 38.41,
+      "trades": 411,
+      "ok": true
+    },
+    "1": {
+      "window": "2023-04",
+      "param": "-0.005",
+      "fallback": false,
+      "profit": 32.43,
+      "trades": 283,
+      "ok": true
+    },
+    "2": {
+      "window": "2023-07",
+      "param": "-0.005",
+      "fallback": false,
+      "profit": 8.05,
+      "trades": 137,
+      "ok": true
+    },
+    "3": {
+      "window": "2023-10",
+      "param": "-0.005",
+      "fallback": false,
+      "profit": 11.65,
+      "trades": 263,
+      "ok": true
+    },
+    "4": {
+      "window": "2024-01",
+      "param": "-0.003",
+      "fallback": false,
+      "profit": -16.33,
+      "trades": 1175,
+      "ok": true
+    },
+    "5": {
+      "window": "2024-04",
+      "param": "-0.005",
+      "fallback": false,
+      "profit": -17.01,
+      "trades": 397,
+      "ok": true
+    },
+    "6": {
+      "window": "2024-07",
+      "param": "-0.008",
+      "fallback": false,
+      "profit": -1.89,
+      "trades": 165,
+      "ok": true
+    },
+    "7": {
+      "window": "2024-10",
+      "param": "-0.008",
+      "fallback": false,
+      "profit": -3.72,
+      "trades": 153,
+      "ok": true
+    },
+    "8": {
+      "window": "2025-01",
+      "param": "-0.008",
+      "fallback": false,
+      "profit": -4.19,
+      "trades": 174,
+      "ok": true
+    },
+    "9": {
+      "window": "2025-04",
+      "param": "-0.005",
+      "fallback": false,
+      "profit": -3.27,
+      "trades": 239,
+      "ok": true
+    },
+    "10": {
+      "window": "2025-07",
+      "param": "-0.005",
+      "fallback": false,
+      "profit": -4.14,
+      "trades": 110,
+      "ok": true
+    },
+    "11": {
+      "window": "2025-10",
+      "param": "-0.005",
+      "fallback": false,
+      "profit": 18.51,
+      "trades": 424,
+      "ok": true
+    },
+    "12": {
+      "window": "2026-01",
+      "param": "-0.005",
+      "fallback": false,
+      "profit": 4.96,
+      "trades": 559,
+      "ok": true
+    },
+    "13": {
+      "window": "2026-04",
+      "param": "-0.005",
+      "fallback": false,
+      "profit": -1.55,
+      "trades": 307,
+      "ok": true
+    },
+    "14": {
+      "window": "2026-07",
+      "param": "-0.005",
+      "fallback": false,
+      "profit": 9.95,
+      "trades": 105,
+      "ok": true
+    }
+  }
+}

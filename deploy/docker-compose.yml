@@ -1,0 +1,43 @@
+services:
+  freqtrade-mr:
+    image: freqtradeorg/freqtrade:stable
+    container_name: freqtrade-mr
+    restart: unless-stopped
+    volumes:
+      - "./user_data:/freqtrade/user_data"
+    ports:
+      - "127.0.0.1:8083:8083"
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    environment:
+      # 币安访问走服务器本机 mihomo（systemd 服务 7890），不再依赖 Windows
+      HTTP_PROXY: http://host.docker.internal:7890
+      HTTPS_PROXY: http://host.docker.internal:7890
+      NO_PROXY: localhost,127.0.0.1
+    command: >
+      trade
+      --logfile /freqtrade/user_data/logs/freqtrade-mr.log
+      --db-url sqlite:////freqtrade/user_data/tradesv3-mr.sqlite
+      --config /freqtrade/user_data/config_mr.json
+      --strategy MeanReversionStrategy
+
+  freqtrade-shock:
+    image: freqtradeorg/freqtrade:stable
+    container_name: freqtrade-shock
+    restart: unless-stopped
+    volumes:
+      - "./user_data:/freqtrade/user_data"
+    ports:
+      - "127.0.0.1:8084:8084"
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    environment:
+      HTTP_PROXY: http://host.docker.internal:7890
+      HTTPS_PROXY: http://host.docker.internal:7890
+      NO_PROXY: localhost,127.0.0.1
+    command: >
+      trade
+      --logfile /freqtrade/user_data/logs/freqtrade-shock.log
+      --db-url sqlite:////freqtrade/user_data/tradesv3-shock.sqlite
+      --config /freqtrade/user_data/config_shock.json
+      --strategy BtcShockStrategy

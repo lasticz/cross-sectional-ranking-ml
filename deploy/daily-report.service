@@ -1,0 +1,8 @@
+[Unit]
+Description=Daily quant system report
+After=network-online.target mihomo.service
+
+[Service]
+Type=oneshot
+User=cc
+ExecStart=/home/cc/quant_8.25/ops/daily_report.sh
