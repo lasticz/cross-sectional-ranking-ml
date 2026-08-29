@@ -1,0 +1,19 @@
+services:
+  nt-ml:
+    build:
+      context: ..
+      dockerfile: deploy/Dockerfile.nt
+      args:
+        - HTTP_PROXY=http://host.docker.internal:7890
+        - HTTPS_PROXY=http://host.docker.internal:7890
+      extra_hosts:
+        - "host.docker.internal:host-gateway"
+    container_name: nt-ml-dryrun
+    restart: unless-stopped
+    environment:
+      - NT_PROXY=http://host.docker.internal:7890
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    volumes:
+      # 状态/净值续接文件持久化 (重启容器不清零)
+      - ../user_data/ml_v2/live:/app/user_data/ml_v2/live

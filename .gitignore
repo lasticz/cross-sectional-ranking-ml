@@ -41,6 +41,7 @@ Thumbs.db
 # ML 大文件（中间计算产物，可重新生成）
 user_data/ml/*.feather
 user_data/ml_v2/*.feather
+user_data/ml_v2/live/
 user_data/ml_signals.json
 user_data/freqtrade_mr_reference.feather
 user_data/models/

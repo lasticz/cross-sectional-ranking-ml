@@ -6,8 +6,38 @@
 |---|---|---|---|---|
 | freqtrade-mr | MeanReversionStrategy (15m) | 127.0.0.1:8083 | tradesv3-mr.sqlite | user_data/logs/freqtrade-mr.log |
 | freqtrade-shock | BtcShockStrategy (15m) | 127.0.0.1:8084 | tradesv3-shock.sqlite | user_data/logs/freqtrade-shock.log |
+| nt-ml-dryrun | ML 横截面 Top3/Bottom3 (15m, 8h 调仓) | — | — | docker logs nt-ml-dryrun |
 
-两 bot 均为 dry-run（150U 模拟、27 币、10% 保证金 × 3x、maker 费模型），`restart: unless-stopped`。
+两 freqtrade bot 均为 dry-run（150U 模拟、27 币、10% 保证金 × 3x、maker 费模型），`restart: unless-stopped`。
+
+## NT ML dry-run 节点 (nt-ml-dryrun)
+
+ML v2 横截面策略的 NautilusTrader dry-run：**真实 Binance USDT-M 行情 + sandbox 模拟成交**
+（150U 起始、3x 杠杆、reduce-only 止损单生效），不产生真实订单、不需要 API 交易权限。
+
+- 每 8h（00/08/16 UTC 的 15m bar 收盘）用部署模型在线计算横截面排名 → 多 Top3 / 空 Bottom3
+- 信号管线与回测决策等价性已由 `scripts/live/validate_features.py` 验证（ALL PASS）
+- 状态: `user_data/ml_v2/live/status.json`（净值/持仓/决策计数）、`trades.jsonl`（逐笔平仓）
+- 净值续接: 重启后以 `state.json` 的期末净值为起始余额（仓位清零，≤8h 持仓影响小）
+
+```bash
+# 首次部署（在服务器 ~/quant_8.25/）
+git pull
+# 上传模型产物（本地执行）:
+#   scp user_data/ml_v2/deploy_{model.pkl,clf.pkl,features.json,meta.json} cc@192.168.1.100:~/quant_8.25/user_data/ml_v2/
+docker compose -f deploy/docker-compose-nt.yml up -d --build
+
+# 日常检查
+docker logs --tail 50 nt-ml-dryrun
+cat user_data/ml_v2/live/status.json
+tail -5 user_data/ml_v2/live/trades.jsonl
+
+# 重建/重启
+docker compose -f deploy/docker-compose-nt.yml up -d --build   # 代码更新后
+docker compose -f deploy/docker-compose-nt.yml restart          # 仅重启（仓位清零）
+```
+
+代理依赖同下（mihomo 127.0.0.1:7890，容器内经 host.docker.internal 访问）。
 
 ## ⚠️ 代理依赖
 

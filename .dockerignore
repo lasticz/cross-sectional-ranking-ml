@@ -1,0 +1,23 @@
+# docker build 上下文裁剪 (context = 仓库根) — 数据目录 2GB+ 绝不进镜像
+.git
+.omc
+.zcode
+.mimosa
+user_data/data
+user_data/logs
+user_data/backtest_results
+user_data/ml_v2/*.feather
+user_data/ml_v2/__pycache__
+scripts/**/__pycache__
+*.txt
+backtest_output.txt
+bt_*.txt
+dl_*.txt
+ml_*.txt
+nt_full_result.txt
+unified_out*.txt
+engine_validate.txt
+diagnose_out.txt
+freqtrade_2023H1_ref.txt
+hyperopt_output.txt
+node_smoke.log

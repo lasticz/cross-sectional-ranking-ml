@@ -1,0 +1,25 @@
+# ML v2 横截面 dry-run 节点 (NautilusTrader + sandbox 执行)
+# 构建上下文 = 仓库根目录 (deploy/Dockerfile.nt), 需要仓库根的 .dockerignore
+FROM python:3.12-slim
+
+WORKDIR /app
+
+COPY requirements-live.txt .
+# 服务器构建需经 mihomo 代理访问 PyPI (compose 注入 build args)
+ARG HTTP_PROXY
+ARG HTTPS_PROXY
+RUN pip install --no-cache-dir -r requirements-live.txt
+
+# 运行所需: 代码 + 配置 + 模型产物 (K线数据不需要 — 行情来自 Binance 实时流)
+COPY scripts/ ./scripts/
+COPY config.json ./config.json
+COPY user_data/ml_v2/deploy_model.pkl \
+     user_data/ml_v2/deploy_clf.pkl \
+     user_data/ml_v2/deploy_features.json \
+     user_data/ml_v2/deploy_meta.json \
+     user_data/ml_v2/
+
+ENV PYTHONUNBUFFERED=1
+
+# 代理通过环境注入: docker compose 里 NT_PROXY=http://host.docker.internal:7890
+CMD ["python", "scripts/live/nt_dryrun_node.py"]
