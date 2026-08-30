@@ -4,7 +4,7 @@
 架构 (与回测同一策略代码 XSTopBottomNT, 回测/实盘同源):
     行情: Binance Futures 实时 15m bar (真实行情, USDT-M)
     信号: 进程内 — 每个 8h 决策点 (00/08/16 UTC, bar 收盘桶触发) 用策略内
-          滚动 K线缓冲 (~720 根/币) 走 research 同一条特征+模型代码
+          滚动 K线缓冲 (~500 根/币) 走 research 同一条特征+模型代码
           (scripts/live/signals.py → 02_feature_families), 已通过
           validate_features.py 决策等价验证
     执行: SandboxExecutionClient (SimulatedExchange 撮合) — 真实行情 + 模拟成交,
@@ -161,12 +161,14 @@ class XSTopBottomLive(XSTopBottomNT):
             self.subscribe_bars(bt)
 
     def _seed_history(self):
-        """REST 预填 K线缓冲 (否则自然积累 720 根要 7.5 天)"""
+        """REST 预填 K线缓冲 (否则自然积累 500 根要 5+ 天)。失败 → 10min 后自动重试"""
         self.log.info("REST 预填历史K线 ...")
         try:
             kl, btc = SIG.fetch_all(self._bases, proxy=self._proxy)
         except Exception as e:  # noqa: BLE001
-            self.log.error(f"历史K线预填失败 (将自然积累, 数日内无决策): {e}")
+            self.log.error(f"历史K线预填失败, 10min 后重试: {e}")
+            self.clock.set_timer("reseed", timedelta(minutes=10),
+                                 callback=self._on_reseed)
             return
         for base, df in kl.items():
             self._hist[base] = {
@@ -179,6 +181,11 @@ class XSTopBottomLive(XSTopBottomNT):
         }
         sizes = sorted(len(v) for v in self._hist.values())
         self.log.info(f"预填完成: min={sizes[0]} max={sizes[-1]} bars/币, BTC={len(self._btc_hist)}")
+
+    def _on_reseed(self, event):
+        # 成功后取消定时器 (fetch_all 成功路径不再注册)
+        self.clock.cancel_timer("reseed")
+        self._seed_history()
 
     def _on_timer(self, event):
         self._write_status("timer")
@@ -421,10 +428,21 @@ def main() -> int:
     node.add_data_client_factory("BINANCE", BinanceLiveDataClientFactory)
     node.add_exec_client_factory("SANDBOX", SandboxLiveExecClientFactory)
 
-    insts = _preload_instruments(load_ids, args.proxy)
-    for inst in insts:
-        node.cache.add_instrument(inst)
-    print(f"预加载 instrument: {len(insts)} 个 → cache")
+    # 预加载 instrument 到 cache (见 _preload_instruments docstring)。
+    # 实测服务器容器内 asyncio.run 会静默退出 (exit 0) → 失败不阻断:
+    # Binance 数据客户端 connect 后会向 msgbus 发布 instrument, sandbox 经
+    # on_data → update_instrument 同样能建匹配引擎, 只是时序上晚几十秒。
+    try:
+        print("preload: start ...", flush=True)
+        insts = _preload_instruments(load_ids, args.proxy)
+        for inst in insts:
+            node.cache.add_instrument(inst)
+        print(f"preload: {len(insts)} instruments → cache", flush=True)
+    except Exception:  # noqa: BLE001
+        import traceback
+
+        traceback.print_exc()
+        print("preload: FAILED — 依赖数据客户端发布 instrument (启动后 ~1min 生效)", flush=True)
     node.build()
 
     # NT 1.231 sandbox 适配器缺陷: connect 只订阅 data.*.BINANCE.* (匹配

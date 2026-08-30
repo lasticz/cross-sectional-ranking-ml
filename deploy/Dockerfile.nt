@@ -2,6 +2,10 @@
 # 构建上下文 = 仓库根目录 (deploy/Dockerfile.nt), 需要仓库根的 .dockerignore
 FROM python:3.12-slim
 
+# lightgbm 运行时依赖 OpenMP (libgomp.so.1), slim 镜像不带
+RUN apt-get update && apt-get install -y --no-install-recommends libgomp1 \
+    && rm -rf /var/lib/apt/lists/*
+
 WORKDIR /app
 
 COPY requirements-live.txt .

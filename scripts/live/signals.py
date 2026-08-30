@@ -37,7 +37,7 @@ ML_DIR = ROOT / "user_data" / "ml_v2"
 CONFIG_PATH = ROOT / "config.json"
 
 BINANCE_FAPI = "https://fapi.binance.com"
-BARS_PER_SYMBOL = 720   # 15m bars (~7.5 天) > 384 根最深回看链
+BARS_PER_SYMBOL = 500   # 15m bars (~5.2 天); 最深回看链 384 根 + 余量, kline 权重 2 (720 根为 5)
 MIN_SNAP_COINS = 10     # 快照有效币数下限 (与 07/NT build_decisions 一致)
 
 
@@ -93,10 +93,18 @@ def fetch_klines(symbol: str, interval: str = "15m", limit: int = BARS_PER_SYMBO
     params = {"symbol": symbol, "interval": interval, "limit": min(limit, 1500)}
     proxies = {"http": proxy, "https": proxy} if proxy else None
     last_err = None
-    for attempt in range(3):
+    for attempt in range(5):
         try:
             r = requests.get(f"{base_url}/fapi/v1/klines", params=params,
                              proxies=proxies, timeout=15)
+            if r.status_code == 429:
+                # 共享代理出口 IP 常见限频: 按 Retry-After 退避
+                wait = float(r.headers.get("Retry-After", 60))
+                print(f"[signals] {symbol} 429 限频, 退避 {wait:.0f}s "
+                      f"(attempt {attempt + 1}/5)", flush=True)
+                time.sleep(min(wait, 90))
+                last_err = RuntimeError("429 Too Many Requests")
+                continue
             r.raise_for_status()
             rows = r.json()
             df = pd.DataFrame(rows, columns=[
@@ -111,12 +119,12 @@ def fetch_klines(symbol: str, interval: str = "15m", limit: int = BARS_PER_SYMBO
         except Exception as e:  # noqa: BLE001 — 网络重试
             last_err = e
             time.sleep(2 * (attempt + 1))
-    raise RuntimeError(f"fetch_klines({symbol}) 3 次失败: {last_err}")
+    raise RuntimeError(f"fetch_klines({symbol}) 5 次失败: {last_err}")
 
 
 def fetch_all(bases: list[str], proxy: str | None = None,
               limit: int = BARS_PER_SYMBOL,
-              pace: float = 0.3) -> tuple[dict[str, pd.DataFrame], pd.DataFrame]:
+              pace: float = 1.0) -> tuple[dict[str, pd.DataFrame], pd.DataFrame]:
     """拉全部交易币种 + BTC 基准. 返回 (klines_by_base, btc_klines).
 
     pace: 逐请求间隔秒 — 控制请求权重增速, 避免触发 Binance IP 限频 (-1003 封禁)
